@@ -1,0 +1,355 @@
+[
+  {
+    "Name": "Saint Benedict of Nursia",
+    "Birth_Name": "Benedict of Nursia",
+    "Birth_Date": "0480-03-02",
+    "Birthplace": "Nursia, Italy",
+    "Death_Date": "0547-03-21",
+    "Death_Place": "Monte Cassino, Italy",
+    "Feast_Day": "0547-07-11",
+    "Virtues_Traits": [
+      "Balance",
+      "Moderation",
+      "Reasonableness"
+    ],
+    "Patron_Of": [
+      "Europe",
+      "Monks",
+      "Students"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Founded twelve communities for monks at Subiaco",
+      "Established the monastery at Monte Cassino",
+      "Wrote the Rule of Saint Benedict"
+    ],
+    "Notable_Contributions": [
+      "Founded Western Christian monasticism",
+      "Developed the Rule of Saint Benedict",
+      "Established a structured monastic lifestyle"
+    ],
+    "Quotes": [
+      "Prefer nothing to the love of Christ"
+    ]
+  },
+  {
+    "Name": "Saint Catherine of Siena",
+    "Birth_Name": "Caterina di Giacomo di Benincasa",
+    "Birth_Date": "1347-03-25",
+    "Birthplace": "Siena, Republic of Siena",
+    "Death_Date": "1380-04-29",
+    "Death_Place": "Rome, Papal States",
+    "Feast_Day": "1380-04-29",
+    "Virtues_Traits": [
+      "Mysticism",
+      "Courage",
+      "Wisdom"
+    ],
+    "Patron_Of": [
+      "Italy",
+      "Europe",
+      "Nurses",
+      "Fire prevention"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Dominican Third Order",
+    "Major_Events": [
+      "Mystical marriage to Christ",
+      "Received stigmata",
+      "Convinced Pope Gregory XI to return to Rome from Avignon"
+    ],
+    "Notable_Contributions": [
+      "Worked to bring the papacy back to Rome from Avignon",
+      "Helped establish peace among Italian city-states",
+      "Wrote \"The Dialogue\", a spiritual classic"
+    ],
+    "Quotes": [
+      "Be who God meant you to be and you will set the world on fire."
+    ]
+  },
+  {
+    "Name": "Saint Joan of Arc",
+    "Birth_Name": "Jeanne d'Arc",
+    "Birth_Date": "1412-01-06",
+    "Birthplace": "Domrémy, Duchy of Bar, Kingdom of France",
+    "Death_Date": "1431-05-30",
+    "Death_Place": "Rouen, Normandy",
+    "Feast_Day": "1431-05-30",
+    "Virtues_Traits": [
+      "Courage",
+      "Faith",
+      "Determination"
+    ],
+    "Patron_Of": [
+      "France",
+      "Soldiers",
+      "Prisoners"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Led French army to victory at Orléans",
+      "Facilitated coronation of Charles VII",
+      "Captured by Burgundians and sold to English",
+      "Tried for heresy and executed"
+    ],
+    "Notable_Contributions": [
+      "Turned tide of Hundred Years' War in favor of France",
+      "Inspired French troops and boosted morale",
+      "Became symbol of French nationalism"
+    ],
+    "Quotes": [
+      "I am not afraid; I was born to do this.",
+      "In God's name! Let us go on bravely!"
+    ]
+  },
+  {
+    "Name": "Saint Peter",
+    "Birth_Name": "Simon Bar Jonah",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Bethsaida, Galilee",
+    "Death_Date": "0064-06-29",
+    "Death_Place": "Rome, Roman Empire",
+    "Feast_Day": "0629-06-29",
+    "Virtues_Traits": [
+      "Faith",
+      "Leadership",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Fishermen",
+      "Popes",
+      "Locksmiths"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Called by Jesus to be an Apostle",
+      "Witnessed the Transfiguration",
+      "Denied Jesus three times",
+      "Preached at Pentecost",
+      "Became leader of the early Church"
+    ],
+    "Notable_Contributions": [
+      "First Pope of the Catholic Church",
+      "Spread Christianity to Gentiles",
+      "Wrote two epistles in the New Testament"
+    ],
+    "Quotes": [
+      "Lord, you know everything; you know that I love you."
+    ]
+  },
+  {
+    "Name": "Saint Paul the Apostle",
+    "Birth_Name": "Saul of Tarsus",
+    "Birth_Date": "0005-01-01",
+    "Birthplace": "Tarsus, Cilicia",
+    "Death_Date": "0067-06-29",
+    "Death_Place": "Rome, Italy",
+    "Feast_Day": "0067-06-29",
+    "Virtues_Traits": [
+      "Zeal",
+      "Courage",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Missionaries",
+      "Theologians",
+      "Gentile Christians"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Conversion on the road to Damascus",
+      "Three missionary journeys",
+      "Imprisonment in Rome"
+    ],
+    "Notable_Contributions": [
+      "Wrote several epistles in the New Testament",
+      "Spread Christianity throughout the Roman Empire",
+      "Developed Christian theology"
+    ],
+    "Quotes": [
+      "For I am convinced that neither death nor life, neither angels nor demons, neither the present nor the future, nor any powers, neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord."
+    ]
+  },
+  {
+    "Name": "Saint Ignatius of Loyola",
+    "Birth_Name": "Iñigo López de Oñaz y Loyola",
+    "Birth_Date": "1491-10-23",
+    "Birthplace": "Loyola, Gipuzkoa, Spain",
+    "Death_Date": "1556-07-31",
+    "Death_Place": "Rome, Italy",
+    "Feast_Day": "0731-07-31",
+    "Virtues_Traits": [
+      "Obedience",
+      "Humility",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Spiritual Retreats",
+      "Soldiers",
+      "Jesuits"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Society of Jesus (Jesuits)",
+    "Major_Events": [
+      "Founded the Society of Jesus in 1534",
+      "Wrote the Spiritual Exercises",
+      "Elected first Superior General of the Jesuits in 1541"
+    ],
+    "Notable_Contributions": [
+      "Developed Ignatian spirituality",
+      "Established the Jesuit order",
+      "Contributed to the Counter-Reformation"
+    ],
+    "Quotes": [
+      "For the greater glory of God",
+      "Go forth and set the world on fire"
+    ]
+  },
+  {
+    "Name": "Saint Therese of Lisieux",
+    "Birth_Name": "Marie Françoise-Thérèse Martin",
+    "Birth_Date": "1873-01-02",
+    "Birthplace": "Alençon, France",
+    "Death_Date": "1897-09-30",
+    "Death_Place": "Lisieux, France",
+    "Feast_Day": "1897-10-01",
+    "Virtues_Traits": [
+      "Simplicity",
+      "Humility",
+      "Love"
+    ],
+    "Patron_Of": [
+      "Missionaries",
+      "Florists",
+      "Aviators",
+      "France"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Discalced Carmelites",
+    "Major_Events": [
+      "Entered Carmel of Lisieux at age 15",
+      "Wrote autobiography \"Story of a Soul\"",
+      "Declared Doctor of the Church in 1997"
+    ],
+    "Notable_Contributions": [
+      "Developed the \"Little Way\" of spiritual childhood",
+      "Promoted a simple approach to holiness",
+      "Inspired millions through her autobiography"
+    ],
+    "Quotes": [
+      "My vocation is love!",
+      "Miss no single opportunity of making some small sacrifice, here by a smiling look, there by a kindly word; always doing the smallest right and doing it all for love."
+    ]
+  },
+  {
+    "Name": "Saint Elizabeth Ann Seton",
+    "Birth_Name": "Elizabeth Ann Bayley",
+    "Birth_Date": "1774-08-28",
+    "Birthplace": "New York City, United States",
+    "Death_Date": "1821-01-04",
+    "Death_Place": "Emmitsburg, Maryland, United States",
+    "Feast_Day": "1821-01-04",
+    "Virtues_Traits": [
+      "Charity",
+      "Devotion",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Catholic Schools",
+      "Widows",
+      "Loss of Parents",
+      "Educators"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Sisters of Charity of St. Joseph's",
+    "Major_Events": [
+      "Conversion to Catholicism in 1805",
+      "Founded Sisters of Charity of St. Joseph's in 1809",
+      "Established St. Joseph's Academy and Free School in 1810"
+    ],
+    "Notable_Contributions": [
+      "First native-born United States citizen to be canonized",
+      "Founded first American congregation of religious sisters",
+      "Established first free Catholic school in America"
+    ],
+    "Quotes": [
+      "The gate of heaven is very low; only the humble can enter it."
+    ]
+  },
+  {
+    "Name": "Saint Vincent de Paul",
+    "Birth_Name": "Vincent de Paul",
+    "Birth_Date": "1581-04-24",
+    "Birthplace": "Pouy, Gascony, Kingdom of France",
+    "Death_Date": "1660-09-27",
+    "Death_Place": "Paris, Kingdom of France",
+    "Feast_Day": "1660-09-27",
+    "Virtues_Traits": [
+      "Charity",
+      "Compassion",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Charities",
+      "Hospitals",
+      "Prisoners",
+      "Volunteers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Mission",
+    "Major_Events": [
+      "Ordained as a priest in 1600",
+      "Captured by Barbary pirates and sold into slavery in 1605",
+      "Founded the Congregation of the Mission in 1625",
+      "Established the Daughters of Charity in 1633"
+    ],
+    "Notable_Contributions": [
+      "Established organizations to help the poor and marginalized",
+      "Reformed the training of priests",
+      "Pioneered social welfare programs"
+    ],
+    "Quotes": [
+      "We should strive to keep our hearts open to the sufferings and wretchedness of other people, and pray continually that God may grant us that spirit of compassion which is truly the spirit of God."
+    ]
+  },
+  {
+    "Name": "Saint Maximilian Kolbe",
+    "Birth_Name": "Rajmund Kolbe",
+    "Birth_Date": "1894-01-08",
+    "Birthplace": "Zduńska Wola, Russian Empire (now Poland)",
+    "Death_Date": "1941-08-14",
+    "Death_Place": "Auschwitz concentration camp, Nazi-occupied Poland",
+    "Feast_Day": "1941-08-14",
+    "Virtues_Traits": [
+      "Self-sacrifice",
+      "Courage",
+      "Devotion to Mary"
+    ],
+    "Patron_Of": [
+      "Drug addicts",
+      "Political prisoners",
+      "Families",
+      "Journalists",
+      "Pro-life movement"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Conventual Franciscans",
+    "Major_Events": [
+      "Founded the Militia Immaculatae in 1917",
+      "Established Niepokalanów, a Franciscan monastery, in 1927",
+      "Volunteered to die in place of a stranger in Auschwitz in 1941"
+    ],
+    "Notable_Contributions": [
+      "Promoted Marian devotion through publications and radio",
+      "Established missionary centers in Poland and Japan",
+      "Exemplified heroic charity by sacrificing his life for another prisoner"
+    ],
+    "Quotes": [
+      "No one in the world can change Truth. What we can do and should do is to seek truth and to serve it when we have found it."
+    ]
+  }
+]
