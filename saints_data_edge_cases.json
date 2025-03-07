@@ -1,0 +1,611 @@
+[
+  {
+    "Name": "Saint Cordula of Cologne",
+    "Birth_Name": "Cordula",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Unknown",
+    "Death_Date": "0453-10-22",
+    "Death_Place": "Cologne, Germany",
+    "Feast_Day": "0453-10-22",
+    "Virtues_Traits": [
+      "Courage",
+      "Repentance",
+      "Faith"
+    ],
+    "Patron_Of": [
+      "Cologne",
+      "Tortosa"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Accompanied Saint Ursula on pilgrimage",
+      "Hid during initial Hunnic massacre",
+      "Voluntarily surrendered to martyrdom the following day"
+    ],
+    "Notable_Contributions": [
+      "Exemplified courage in facing martyrdom",
+      "Inspired devotion among female religious orders"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Virgin, Martyr",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Bertha of Val d'Or",
+    "Birth_Name": "Bertha",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Unknown",
+    "Death_Date": "0690",
+    "Death_Place": "Avenay, France",
+    "Feast_Day": "0690-05-01",
+    "Virtues_Traits": [
+      "Piety",
+      "Charity",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Against insanity"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Founded convent at Avenay",
+      "Discovered healing spring through vision of Saint Peter",
+      "Martyred by in-laws for distributing husband's estate to the poor"
+    ],
+    "Notable_Contributions": [
+      "Established convent in Avenay",
+      "Provided water source for convent and village through miraculous spring"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Nun, Abbess",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Bertulf of Bobbio",
+    "Birth_Name": "Bertulf",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Unknown",
+    "Death_Date": "0640-08-19",
+    "Death_Place": "Bobbio, Italy",
+    "Feast_Day": "0640-08-19",
+    "Virtues_Traits": [
+      "Piety",
+      "Leadership",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Unknown"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Became a monk at Luxeuil Abbey",
+      "Appointed as Abbot of Bobbio",
+      "Obtained papal exemption from episcopal jurisdiction for Bobbio Abbey"
+    ],
+    "Notable_Contributions": [
+      "Led Bobbio Abbey as its third abbot",
+      "Secured papal privileges for Bobbio Abbey",
+      "Continued the missionary work of St. Columbanus"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Monk, Abbot",
+    "Conversion_Status": "Convert from paganism",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Vitus",
+    "Birth_Name": "Vitus",
+    "Birth_Date": "0290",
+    "Birthplace": "Sicily, Roman Empire",
+    "Death_Date": "0303-06-15",
+    "Death_Place": "Lucania, Roman Empire",
+    "Feast_Day": "0303-06-15",
+    "Virtues_Traits": [
+      "Courage",
+      "Faith",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Actors",
+      "Dancers",
+      "Epileptics",
+      "Comedians"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Resisted his father's attempts to make him renounce Christianity",
+      "Fled to Lucania with his tutor Modestus and nurse Crescentia",
+      "Cured Emperor Diocletian's son of an illness",
+      "Martyred under Emperor Diocletian"
+    ],
+    "Notable_Contributions": [
+      "Became one of the Fourteen Holy Helpers",
+      "Inspired devotion and veneration across Europe",
+      "Associated with the 'dancing mania' of the Middle Ages"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Christian Martyr",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Elmo",
+    "Birth_Name": "Erasmus of Formia",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Formia, Italy",
+    "Death_Date": "0303-06-02",
+    "Death_Place": "Formia, Italy",
+    "Feast_Day": "0303-06-02",
+    "Virtues_Traits": [
+      "Bravery",
+      "Faithfulness",
+      "Endurance"
+    ],
+    "Patron_Of": [
+      "Sailors",
+      "Abdominal pain",
+      "Women in labor"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Served as Bishop of Formiae",
+      "Imprisoned and tortured during Diocletian's persecution",
+      "Miraculously survived multiple tortures"
+    ],
+    "Notable_Contributions": [
+      "Inspired sailors through his patronage",
+      "Became one of the Fourteen Holy Helpers",
+      "Namesake of the atmospheric phenomenon St. Elmo's fire"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Bishop",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Joseph",
+    "Birth_Name": "Joseph",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Bethlehem, Judea",
+    "Death_Date": "Unknown",
+    "Death_Place": "Nazareth, Galilee",
+    "Feast_Day": "0319-03-19",
+    "Virtues_Traits": [
+      "Chastity",
+      "Humility",
+      "Obedience",
+      "Faith",
+      "Justice"
+    ],
+    "Patron_Of": [
+      "Universal Church",
+      "Fathers",
+      "Workers",
+      "Carpenters",
+      "Expectant Mothers",
+      "Unborn Children",
+      "Happy Death"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Betrothal to Mary",
+      "Flight into Egypt",
+      "Finding Jesus in the Temple"
+    ],
+    "Notable_Contributions": [
+      "Protected and provided for the Holy Family",
+      "Raised Jesus as his foster father",
+      "Exemplified the virtues of fatherhood and work"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Carpenter, Foster Father of Jesus",
+    "Conversion_Status": "Lifelong Jewish",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Egbert of Rathemigisi",
+    "Birth_Name": "Egbert",
+    "Birth_Date": "0639-00-00",
+    "Birthplace": "Northumbria, England",
+    "Death_Date": "0729-04-24",
+    "Death_Place": "Iona, Scotland",
+    "Feast_Day": "0729-04-24",
+    "Virtues_Traits": [
+      "Humility",
+      "Kindness",
+      "Continency",
+      "Simplicity",
+      "Justice"
+    ],
+    "Patron_Of": [
+      "Unknown"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Studied in Ireland",
+      "Survived plague in 664",
+      "Became a priest and monk",
+      "Sent missionaries to Friesland",
+      "Traveled to Iona in 716",
+      "Convinced Iona monks to adopt Roman customs"
+    ],
+    "Notable_Contributions": [
+      "Reformed monastic life",
+      "Helped bring Roman customs to Celtic monasteries",
+      "Sent missionaries to evangelize pagans in Friesland"
+    ],
+    "Quotes": [
+      "Unknown"
+    ],
+    "Vocation_Job": "Monk, Priest, Missionary, Reformer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Mildred of Thanet",
+    "Birth_Name": "Mildred",
+    "Birth_Date": "0660-00-00",
+    "Birthplace": "Unknown",
+    "Death_Date": "0732-00-00",
+    "Death_Place": "Minster-in-Thanet, Kent",
+    "Feast_Day": "0732-07-13",
+    "Virtues_Traits": [
+      "Gentleness",
+      "Humility",
+      "Compassion",
+      "Kindness"
+    ],
+    "Patron_Of": [
+      "Thanet",
+      "Kent",
+      "Wild geese"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Educated at the convent school in Chelles, France",
+      "Became abbess of Minster-in-Thanet Abbey",
+      "Worked miracles during her lifetime"
+    ],
+    "Notable_Contributions": [
+      "Established a reputation for holiness and generosity",
+      "Became known as the \"wonderworker of all Kent\"",
+      "Served as protectress of the poor, destitute, widows, and orphans"
+    ],
+    "Quotes": [
+      "This is a chapel, not a dormitory."
+    ],
+    "Vocation_Job": "Nun, Abbess",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Emma of Gurk",
+    "Birth_Name": "Emma of Gurk",
+    "Birth_Date": "0980-00-00",
+    "Birthplace": "Friesach, Kärnten, Austria",
+    "Death_Date": "1045-06-29",
+    "Death_Place": "Gurk, Kärnten, Austria",
+    "Feast_Day": "0045-06-27",
+    "Virtues_Traits": [
+      "Charity",
+      "Piety",
+      "Generosity"
+    ],
+    "Patron_Of": [
+      "Carinthia, Austria",
+      "Diocese of Gurk-Klagenfurt",
+      "Pregnant women",
+      "People with eye diseases"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictine",
+    "Major_Events": [
+      "Founded Gurk Abbey in 1043",
+      "Established ten churches in Carinthia",
+      "Lost her husband and two sons"
+    ],
+    "Notable_Contributions": [
+      "Founded several monasteries and churches",
+      "Used her wealth for charitable works",
+      "Contributed to the spread of Christianity in Austria"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Noblewoman, Philanthropist, Founder of religious institutions",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Deicolus",
+    "Birth_Name": "Deicolus",
+    "Birth_Date": "0530",
+    "Birthplace": "Leinster, Ireland",
+    "Death_Date": "0625-01-18",
+    "Death_Place": "Lure, Vosges, France",
+    "Feast_Day": "0625-01-18",
+    "Virtues_Traits": [
+      "Piety",
+      "Perseverance",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Childhood illnesses",
+      "Livestock"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Accompanied St. Columbanus on missionary journey to Gaul in 576",
+      "Founded the monastery of Lure in Vosges, France",
+      "Lived as a hermit in later years"
+    ],
+    "Notable_Contributions": [
+      "Established Christian community in Austrasia and Burgundy",
+      "Founded and developed the Abbey of Lure",
+      "Spread teachings of the Church in France"
+    ],
+    "Quotes": [
+      "Because no one can take God from me."
+    ],
+    "Vocation_Job": "Monk, Abbot, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Francis of Assisi",
+    "Birth_Name": "Giovanni Francesco di Bernardone",
+    "Birth_Date": "1181-09-26",
+    "Birthplace": "Assisi, Duchy of Spoleto",
+    "Death_Date": "1226-10-03",
+    "Death_Place": "Assisi, Italy",
+    "Feast_Day": "1226-10-04",
+    "Virtues_Traits": [
+      "Poverty",
+      "Humility",
+      "Charity",
+      "Love for nature"
+    ],
+    "Patron_Of": [
+      "Animals",
+      "Merchants",
+      "Ecology",
+      "Italy"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Franciscans",
+    "Major_Events": [
+      "Founded the Franciscan Order",
+      "Founded the Order of Poor Clares",
+      "Founded the Third Order of Saint Francis",
+      "Received the stigmata in 1224",
+      "Arranged the first Christmas Nativity scene in 1223"
+    ],
+    "Notable_Contributions": [
+      "Promoted radical poverty and simplicity in religious life",
+      "Emphasized the humanity of Christ",
+      "Fostered devotion to the Eucharist",
+      "Promoted peace between Christians and Muslims"
+    ],
+    "Quotes": [
+      "Lord, make me an instrument of your peace.",
+      "Preach the Gospel at all times. When necessary, use words.",
+      "For it is in giving that we receive."
+    ],
+    "Vocation_Job": "Friar, Preacher, Founder of Religious Orders",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Augustine of Hippo",
+    "Birth_Name": "Aurelius Augustinus",
+    "Birth_Date": "0354-11-13",
+    "Birthplace": "Thagaste, Roman Africa",
+    "Death_Date": "0430-08-28",
+    "Death_Place": "Hippo Regius, Roman Africa",
+    "Feast_Day": "0430-08-28",
+    "Virtues_Traits": [
+      "Intellect",
+      "Passion",
+      "Faith"
+    ],
+    "Patron_Of": [
+      "Theologians",
+      "Brewers",
+      "Printers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Order of Saint Augustine",
+    "Major_Events": [
+      "Conversion to Christianity in 386",
+      "Baptism by Ambrose in 387",
+      "Ordained as priest in 391",
+      "Became Bishop of Hippo in 395"
+    ],
+    "Notable_Contributions": [
+      "Wrote influential works including Confessions and City of God",
+      "Developed Christian doctrine on original sin and divine grace",
+      "Influenced Western Christian theology and philosophy"
+    ],
+    "Quotes": [
+      "You have made us for yourself, O Lord, and our heart is restless until it rests in you.",
+      "The mind commands the body and is instantly obeyed. The mind commands itself and meets resistance."
+    ],
+    "Vocation_Job": "Bishop, Theologian, Philosopher",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Michael the Archangel",
+    "Birth_Name": "Michael",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Heaven",
+    "Death_Date": "Unknown",
+    "Death_Place": "Unknown",
+    "Feast_Day": "0929-09-29",
+    "Virtues_Traits": [
+      "Strength",
+      "Courage",
+      "Justice"
+    ],
+    "Patron_Of": [
+      "Police officers",
+      "Military personnel",
+      "Paramedics",
+      "Grocers",
+      "Bankers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Archangels",
+    "Major_Events": [
+      "Defeated Satan and ejected him from Paradise",
+      "Appeared on Monte Gargano in Italy in 492",
+      "Appeared with a flaming sword atop Monte Gargano in 663"
+    ],
+    "Notable_Contributions": [
+      "Protector of the Church",
+      "Defender against evil",
+      "Escorts souls to heaven for judgment"
+    ],
+    "Quotes": [
+      "Who is like God?"
+    ],
+    "Vocation_Job": "Archangel, Warrior of God",
+    "Conversion_Status": "Lifelong Servant of God",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "St. Raphael the Archangel",
+    "Birth_Name": "Raphael",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Unknown",
+    "Death_Date": "Unknown",
+    "Death_Place": "Unknown",
+    "Feast_Day": "0929-09-29",
+    "Virtues_Traits": [
+      "Healing",
+      "Protection",
+      "Guidance"
+    ],
+    "Patron_Of": [
+      "Travelers",
+      "Blind people",
+      "Nurses",
+      "Pharmacists",
+      "Physicians",
+      "Sick people",
+      "Happy meetings",
+      "Catholic singles"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Accompanied Tobias on his journey",
+      "Healed Tobit's blindness",
+      "Delivered Sarah from the demon Asmodeus"
+    ],
+    "Notable_Contributions": [
+      "Protagonist in the Book of Tobit",
+      "One of the three archangels mentioned by name in the Bible",
+      "Patron of healing and happy meetings"
+    ],
+    "Quotes": [
+      "I am Raphael, one of the seven holy angels who present the prayers of the saints and enter into the presence of the Holy One."
+    ],
+    "Vocation_Job": "Archangel, Messenger of God",
+    "Conversion_Status": "Unknown",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Gabriel the Archangel",
+    "Birth_Name": "Gabriel",
+    "Birth_Date": "Unknown",
+    "Birthplace": "Heaven",
+    "Death_Date": "Unknown",
+    "Death_Place": "Unknown",
+    "Feast_Day": "0929-09-29",
+    "Virtues_Traits": [
+      "Strength",
+      "Faithfulness",
+      "Obedience"
+    ],
+    "Patron_Of": [
+      "Messengers",
+      "Postal workers",
+      "Telecommunication workers",
+      "Radio broadcasters",
+      "Diplomats"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Archangels",
+    "Major_Events": [
+      "Announced the birth of John the Baptist to Zechariah",
+      "Announced the Incarnation to the Virgin Mary",
+      "Appeared to the prophet Daniel"
+    ],
+    "Notable_Contributions": [
+      "Delivered God's messages to humanity",
+      "Played a crucial role in the Annunciation",
+      "Helped interpret prophetic visions"
+    ],
+    "Quotes": [
+      "Hail, full of grace, the Lord is with thee: blessed art thou among women."
+    ],
+    "Vocation_Job": "Archangel, Messenger of God",
+    "Conversion_Status": "Lifelong Servant of God",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  }
+]
