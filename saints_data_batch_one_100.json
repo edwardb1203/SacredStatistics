@@ -1,0 +1,4672 @@
+[
+  {
+    "Name": "Saint Mary, Mother of Jesus",
+    "Birth_Name": "Mary",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Nazareth, Herodian Judea",
+    "Modern_Birthplace": "Nazareth, Israel",
+    "Death_Date": "Unknown",
+    "Historical_Death_Place": "Unknown",
+    "Modern_Death_Place": "Unknown",
+    "Feast_Day": "January 1",
+    "Virtues_Traits": [
+      "Faith",
+      "Humility",
+      "Obedience",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "All humanity",
+      "Mothers",
+      "The Church"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Annunciation by the angel Gabriel",
+      "Birth of Jesus in Bethlehem",
+      "Presentation of Jesus at the Temple",
+      "Witnessed the Crucifixion of Jesus",
+      "Present at the Resurrection and Ascension"
+    ],
+    "Notable_Contributions": [
+      "Mother of Jesus Christ, the Savior",
+      "Role in salvation history as Theotokos (Mother of God)",
+      "Inspiration for Marian devotion and theology"
+    ],
+    "Quotes": [
+      "\"I am the handmaid of the Lord. Let it be done unto me according to your word.\""
+    ],
+    "Vocation_Job": "Mother of Jesus, Devotee of God",
+    "Conversion_Status": "Lifelong Jewish",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Michael the Archangel",
+    "Birth_Name": "Michael",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Heaven",
+    "Modern_Birthplace": "N/A",
+    "Death_Date": "Immortal",
+    "Historical_Death_Place": "N/A",
+    "Modern_Death_Place": "N/A",
+    "Feast_Day": "September 29",
+    "Virtues_Traits": [
+      "Loyalty",
+      "Humility",
+      "Courage",
+      "Faithfulness"
+    ],
+    "Patron_Of": [
+      "Soldiers",
+      "Police officers",
+      "Paramedics",
+      "The sick",
+      "The dying",
+      "Germany",
+      "Brussels",
+      "Kiev",
+      "Arkhangelsk"
+    ],
+    "Martyr": false,
+    "Religious_Order": "N/A",
+    "Major_Events": [
+      "Led God's armies in the battle against Lucifer",
+      "Intervened to end a plague in Rome at Pope Gregory I's request",
+      "Protected the church at Colossae from destruction",
+      "Apparition on Mount Gargano in 492"
+    ],
+    "Notable_Contributions": [
+      "Defender of the Faith and leader of the Church Militant",
+      "Interceded for humanity during critical moments in history",
+      "Inspired devotion and numerous pilgrimage sites such as Mont Saint-Michel"
+    ],
+    "Quotes": [
+      "\"Who is like God?\""
+    ],
+    "Vocation_Job": "Archangel, Leader of Heavenly Hosts",
+    "Conversion_Status": "N/A",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Joseph",
+    "Birth_Name": "Joseph",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Bethlehem, Judea",
+    "Modern_Birthplace": "Bethlehem, West Bank",
+    "Death_Date": "Unknown",
+    "Historical_Death_Place": "Unknown",
+    "Modern_Death_Place": "Unknown",
+    "Feast_Day": "March 19",
+    "Virtues_Traits": [
+      "Obedience",
+      "Humility",
+      "Faith",
+      "Courage",
+      "Justice",
+      "Fortitude"
+    ],
+    "Patron_Of": [
+      "Fathers",
+      "Families",
+      "Workers",
+      "Dying People",
+      "Happy Death",
+      "Travelers",
+      "Immigrants",
+      "Social Justice",
+      "Carpenters",
+      "Engineers",
+      "Orphans",
+      "Expectant Mothers",
+      "Unborn Children",
+      "Interior Souls",
+      "The Universal Church"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Received divine messages in dreams",
+      "Protected Mary and Jesus during the flight into Egypt",
+      "Cared for and raised Jesus as his earthly father",
+      "Provided for the Holy Family through his carpentry work"
+    ],
+    "Notable_Contributions": [
+      "Model of fatherhood and family life",
+      "Patron and protector of the Universal Church",
+      "Exemplar of obedience to God’s will",
+      "Sanctified daily labor as a carpenter"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Carpenter, Foster Father of Jesus",
+    "Conversion_Status": "Lifelong Jew and follower of God",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Peter the Apostle",
+    "Birth_Name": "Shimon Bar Yonah",
+    "Birth_Date": "0001",
+    "Historical_Birthplace": "Bethsaida, Galilee, Roman Empire",
+    "Modern_Birthplace": "Bethsaida, Israel",
+    "Death_Date": "0064",
+    "Historical_Death_Place": "Vatican Hill, Rome, Roman Empire",
+    "Modern_Death_Place": "Vatican City",
+    "Feast_Day": "06-29",
+    "Virtues_Traits": [
+      "Faith",
+      "Courage",
+      "Repentance"
+    ],
+    "Patron_Of": [
+      "Fishermen",
+      "Net makers",
+      "Ship builders",
+      "The Papacy",
+      "Rome"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Called by Jesus to be an Apostle",
+      "Renamed 'Peter' (meaning 'Rock') by Jesus",
+      "First to declare Jesus as the Christ",
+      "Leader at Pentecost and early Church",
+      "Crucified upside-down under Emperor Nero"
+    ],
+    "Notable_Contributions": [
+      "First Pope of the Roman Catholic Church",
+      "Established the Church in Rome",
+      "Preacher and missionary to Jews and Gentiles",
+      "Performed miracles in the name of Jesus",
+      "Advocated for Gentile inclusion at the Council of Jerusalem"
+    ],
+    "Quotes": [
+      "Lord, to whom shall we go? You have the words of eternal life."
+    ],
+    "Vocation_Job": "Apostle, Fisherman, First Pope, Missionary",
+    "Conversion_Status": "Lifelong Jewish-Christian",
+    "Popes": {
+      "Was_Pope": true,
+      "Pontifical_Motto": "Unknown"
+    }
+  },
+  {
+    "Name": "Saint Paul the Apostle",
+    "Birth_Name": "Saul of Tarsus",
+    "Birth_Date": "0004",
+    "Historical_Birthplace": "Tarsus, Roman Province of Cilicia",
+    "Modern_Birthplace": "Tarsus, Turkey",
+    "Death_Date": "0064",
+    "Historical_Death_Place": "Rome, Roman Empire",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "June 29",
+    "Virtues_Traits": [
+      "Zeal",
+      "Faithfulness",
+      "Missionary Spirit"
+    ],
+    "Patron_Of": [
+      "Missions",
+      "Theologians",
+      "Writers",
+      "Journalists",
+      "Tent Makers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Conversion on the road to Damascus",
+      "Three missionary journeys across Asia Minor, Greece, and Rome",
+      "Council of Jerusalem",
+      "Imprisonments in Rome and elsewhere"
+    ],
+    "Notable_Contributions": [
+      "Authored significant portions of the New Testament",
+      "Spread Christianity to the Gentiles",
+      "Shaped Christian theology and Christology",
+      "Established Christian communities across the Roman Empire"
+    ],
+    "Quotes": [
+      "\"I can do all things through Christ who strengthens me.\"",
+      "\"For to me, to live is Christ and to die is gain.\"",
+      "\"Love is patient, love is kind. It does not envy, it does not boast, it is not proud.\""
+    ],
+    "Vocation_Job": "Apostle, Missionary, Tent Maker, Theologian, Writer",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John the Apostle",
+    "Birth_Name": "John, son of Zebedee",
+    "Birth_Date": "0006",
+    "Historical_Birthplace": "Bethsaida, Galilee, Roman Empire",
+    "Modern_Birthplace": "Bethsaida, Israel",
+    "Death_Date": "0100",
+    "Historical_Death_Place": "Ephesus, Roman Empire",
+    "Modern_Death_Place": "Selçuk, Turkey",
+    "Feast_Day": "December 27",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Loyalty",
+      "Love"
+    ],
+    "Patron_Of": [
+      "Love",
+      "Loyalty",
+      "Friendships",
+      "Authors",
+      "Booksellers",
+      "Burn-victims",
+      "Poison-victims",
+      "Art-dealers",
+      "Editors",
+      "Publishers",
+      "Scribes",
+      "Examinations",
+      "Scholars",
+      "Theologians",
+      "Asia Minor",
+      "Against jealousy and envy"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Called to be an Apostle by Jesus in the first year of His public ministry",
+      "Witnessed the Transfiguration of Jesus",
+      "Present at the Last Supper and leaned on Jesus’ chest",
+      "Stood at the foot of the Cross and was entrusted with the care of Mary, the Mother of Jesus",
+      "Ministered in Ephesus and Asia Minor",
+      "Exiled to the Island of Patmos where he wrote the Book of Revelation",
+      "Authored the Gospel of John and three Epistles"
+    ],
+    "Notable_Contributions": [
+      "Authored the Gospel of John",
+      "Wrote three Epistles in the New Testament",
+      "Wrote the Book of Revelation",
+      "Played a key role in the early Christian Church",
+      "Cared for the Virgin Mary after Jesus’ crucifixion"
+    ],
+    "Quotes": [
+      "God is love, and whoever abides in love abides in God, and God abides in them."
+    ],
+    "Vocation_Job": "Apostle, Evangelist, Theologian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Andrew the Apostle",
+    "Birth_Name": "Andrew",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Bethsaida, Galilee, Roman Empire",
+    "Modern_Birthplace": "Bethsaida, Israel",
+    "Death_Date": "0060-11-30",
+    "Historical_Death_Place": "Patras, Achaea, Roman Empire",
+    "Modern_Death_Place": "Patras, Greece",
+    "Feast_Day": "11-30",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Evangelism",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Fishermen",
+      "Singers",
+      "Scotland",
+      "Russia",
+      "Greece",
+      "Romania",
+      "Ukraine"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "First disciple called by Jesus",
+      "Introduced his brother Peter to Jesus",
+      "Participated in the miracle of the feeding of the 5,000",
+      "Evangelized in regions including Scythia, Greece, and Turkey",
+      "Martyred in Patras on an X-shaped cross"
+    ],
+    "Notable_Contributions": [
+      "Spread Christianity to regions around the Black Sea",
+      "Established Christian churches and ordained clergy",
+      "Symbolism of the St. Andrew's Cross"
+    ],
+    "Quotes": [
+      "\"Accept me, O Christ Jesus, whom I saw, whom I love, and in whom I am; accept my spirit in peace in your eternal realm.\""
+    ],
+    "Vocation_Job": "Apostle, Fisherman, Missionary",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint James the Greater",
+    "Birth_Name": "James, son of Zebedee",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Bethsaida, Roman Empire",
+    "Modern_Birthplace": "Bethsaida, Israel",
+    "Death_Date": "0044",
+    "Historical_Death_Place": "Jerusalem, Roman Empire",
+    "Modern_Death_Place": "Jerusalem, Israel",
+    "Feast_Day": "July 25",
+    "Virtues_Traits": [
+      "Zeal",
+      "Courage",
+      "Faithfulness"
+    ],
+    "Patron_Of": [
+      "Spain",
+      "Pilgrims",
+      "Veterinarians",
+      "Pharmacists",
+      "Equestrians",
+      "Laborers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Witnessed the Transfiguration of Jesus",
+      "Was among the inner circle of Jesus alongside Peter and John",
+      "Preached Christianity in the Iberian Peninsula",
+      "Beheaded by King Herod Agrippa I in Jerusalem"
+    ],
+    "Notable_Contributions": [
+      "Spread Christianity in Spain",
+      "First apostle to be martyred",
+      "Inspiration for the Camino de Santiago pilgrimage"
+    ],
+    "Quotes": [
+      "In the name of Jesus Christ, for whom I am being led to execution, stand up and bless your Creator."
+    ],
+    "Vocation_Job": "Apostle, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint James the Less",
+    "Birth_Name": "James, son of Alphaeus",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Unknown",
+    "Modern_Birthplace": "Unknown",
+    "Death_Date": "0062",
+    "Historical_Death_Place": "Jerusalem, Roman Empire",
+    "Modern_Death_Place": "Jerusalem, Israel",
+    "Feast_Day": "May 3",
+    "Virtues_Traits": [
+      "Justice",
+      "Faith",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Hatmakers",
+      "Pharmacists"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Witnessed the Resurrection of Christ",
+      "Served as the first Bishop of Jerusalem",
+      "Participated in the Council of Jerusalem (circa AD 50)"
+    ],
+    "Notable_Contributions": [
+      "Author of the first Catholic Epistle (Epistle of James)",
+      "Guided the early Christian Church in Jerusalem",
+      "Advocated for the inclusion of Gentiles in Christianity without requiring adherence to Mosaic Law"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Apostle, Bishop, Author",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Thomas the Apostle",
+    "Birth_Name": "Thomas",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Galilee, Roman Empire",
+    "Modern_Birthplace": "Galilee, Israel",
+    "Death_Date": "0072-07-03",
+    "Historical_Death_Place": "Mylapore, India",
+    "Modern_Death_Place": "Chennai, India",
+    "Feast_Day": "July 3",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Perseverance",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Architects",
+      "Builders",
+      "Theologians",
+      "India",
+      "Doubters"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Witnessed the Resurrection of Christ and professed, 'My Lord and My God'",
+      "Evangelized in Syria, Persia, and India",
+      "Established seven churches in Kerala, India",
+      "Performed miracles, including raising the dead"
+    ],
+    "Notable_Contributions": [
+      "Spread Christianity to India",
+      "Converted kings and their families to Christianity",
+      "Built churches and established Christian communities in southern India"
+    ],
+    "Quotes": [
+      "My Lord and My God."
+    ],
+    "Vocation_Job": "Apostle, Evangelist, Carpenter, Builder",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Philip the Apostle",
+    "Birth_Name": "Philip",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Bethsaida, Galilee, Roman Empire",
+    "Modern_Birthplace": "Bethsaida, Israel",
+    "Death_Date": "0080",
+    "Historical_Death_Place": "Hierapolis, Phrygia, Roman Empire",
+    "Modern_Death_Place": "Pamukkale, Turkey",
+    "Feast_Day": "May 3",
+    "Virtues_Traits": [
+      "Faith",
+      "Courage",
+      "Evangelism"
+    ],
+    "Patron_Of": [
+      "Hatters",
+      "Pastry chefs",
+      "San Felipe Pueblo",
+      "Uruguay"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Called directly by Jesus to follow Him",
+      "Participated in the miracle of the loaves and fishes",
+      "Preached and evangelized across Greece, Phrygia, and Syria",
+      "Converted the proconsul's wife in Hierapolis"
+    ],
+    "Notable_Contributions": [
+      "Introduced Nathanael to Christ",
+      "Spread Christianity throughout Asia Minor",
+      "Performed miracles to confirm the Gospel's message",
+      "Died as a martyr in Hierapolis, inspiring faith in early Christians"
+    ],
+    "Quotes": [
+      "Lord, show us the Father, and it is enough for us."
+    ],
+    "Vocation_Job": "Apostle, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Bartholomew the Apostle",
+    "Birth_Name": "Bartholomew (possibly Nathanael)",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Cana of Galilee, Roman Empire",
+    "Modern_Birthplace": "Kafr Kanna, Israel",
+    "Death_Date": "Unknown",
+    "Historical_Death_Place": "Armenia or India, location disputed",
+    "Modern_Death_Place": "Unknown",
+    "Feast_Day": "August 24",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Sincerity",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Bookbinders",
+      "Butchers",
+      "Cobblers",
+      "Leatherworkers",
+      "Plasterers",
+      "Shoemakers",
+      "Tanners",
+      "Trappers",
+      "Whiteners"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Pre-Congregation",
+    "Major_Events": [
+      "One of the Twelve Apostles of Jesus",
+      "Witnessed Christ's Ascension",
+      "Missionary work in India, Armenia, Mesopotamia, Persia, and Egypt",
+      "Translated the Gospel of Matthew into a local language in India",
+      "Martyred for converting King Polymius of Armenia to Christianity"
+    ],
+    "Notable_Contributions": [
+      "Spread Christianity to India and Armenia",
+      "Left a copy of the Gospel of Matthew in India",
+      "Converted King Polymius and his family to Christianity",
+      "Credited with numerous miracles, including healing King Polymius' daughter"
+    ],
+    "Quotes": [
+      "\"Here is a true Israelite in whom there is no deceit.\""
+    ],
+    "Vocation_Job": "Apostle, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Matthew the Apostle",
+    "Birth_Name": "Levi",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Galilee, Roman Empire",
+    "Modern_Birthplace": "Galilee, Israel",
+    "Death_Date": "0065",
+    "Historical_Death_Place": "Ethiopia, Kingdom of Aksum",
+    "Modern_Death_Place": "Ethiopia",
+    "Feast_Day": "September 21",
+    "Virtues_Traits": [
+      "Faith",
+      "Obedience",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Accountants",
+      "Tax Collectors",
+      "Civil Servants"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Called by Jesus to be one of the Twelve Apostles",
+      "Authored the Gospel of Matthew",
+      "Witnessed Christ's resurrection and ascension"
+    ],
+    "Notable_Contributions": [
+      "Wrote the Gospel of Matthew, emphasizing Jesus as the Messiah",
+      "Spread Christianity in regions including Ethiopia, Parthia, and Persia",
+      "Helped establish early Christian communities"
+    ],
+    "Quotes": [
+      "Follow me."
+    ],
+    "Vocation_Job": "Apostle, Evangelist, Gospel Writer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Simon the Zealot",
+    "Birth_Name": "Simon",
+    "Birth_Date": "0005",
+    "Historical_Birthplace": "Cana, Galilee, Judaea, Roman Empire",
+    "Modern_Birthplace": "Kafr Kanna, Israel",
+    "Death_Date": "0065",
+    "Historical_Death_Place": "Suanir, Persia (traditional) or various locations including Jerusalem or Edessa",
+    "Modern_Death_Place": "Iran (traditional) or other debated locations",
+    "Feast_Day": "October 28",
+    "Virtues_Traits": [
+      "Zeal",
+      "Loyalty",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Curriers",
+      "Sawyers",
+      "Tanners"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Witnessed the miracle at Cana",
+      "Evangelized in Persia, Egypt, and Africa",
+      "Received the Holy Spirit at Pentecost"
+    ],
+    "Notable_Contributions": [
+      "Spread Christianity to various regions including Persia and Africa",
+      "Helped establish early Christian communities",
+      "Served as an example of zealous faith and loyalty"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Apostle, Preacher, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Jude Thaddeus",
+    "Birth_Name": "Jude Thaddeus",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Paneas, Galilee, Roman Empire",
+    "Modern_Birthplace": "Banias, Israel",
+    "Death_Date": "0065",
+    "Historical_Death_Place": "Beirut, Roman Province of Syria",
+    "Modern_Death_Place": "Beirut, Lebanon",
+    "Feast_Day": "October 28",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Perseverance",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "Lost causes",
+      "Desperate situations",
+      "Hospitals",
+      "Armenia"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Preached the Gospel in Judea, Samaria, and beyond",
+      "Wrote the Epistle of Jude warning against false teachings",
+      "Evangelized in Mesopotamia, Libya, and Persia alongside St. Simon",
+      "Credited with helping establish the Armenian Church"
+    ],
+    "Notable_Contributions": [
+      "Author of the Epistle of Jude in the New Testament",
+      "Healed King Abgar V of Edessa",
+      "Spread Christianity beyond the Roman Empire"
+    ],
+    "Quotes": [
+      "\"May mercy, peace, and love be yours in abundance.\" (Jude 1:2)"
+    ],
+    "Vocation_Job": "Apostle, Evangelist, Writer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Matthias the Apostle",
+    "Birth_Name": "Matthias",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Judaea, Roman Empire",
+    "Modern_Birthplace": "Israel/Palestine",
+    "Death_Date": "0080",
+    "Historical_Death_Place": "Jerusalem, Judaea or Colchis",
+    "Modern_Death_Place": "Jerusalem, Israel/Palestine or Georgia",
+    "Feast_Day": "May 14",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Perseverance",
+      "Witness to the Resurrection"
+    ],
+    "Patron_Of": [
+      "Alcoholics",
+      "Carpenters",
+      "Tailors",
+      "Hope",
+      "Perseverance",
+      "Reformed Alcoholics",
+      "Smallpox"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Chosen to replace Judas Iscariot as an Apostle",
+      "Witnessed the Resurrection of Jesus",
+      "Preached in Cappadocia, Ethiopia, and regions around the Caspian Sea"
+    ],
+    "Notable_Contributions": [
+      "Evangelized various regions including Cappadocia and Ethiopia",
+      "Became one of the Twelve Apostles, completing their number after Judas' betrayal"
+    ],
+    "Quotes": [
+      "\"The harvest is abundant but the laborers are few; so ask the master of the harvest to send out laborers for his harvest.\" (Luke 10:2, attributed to his mission)"
+    ],
+    "Vocation_Job": "Apostle, Evangelist, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Stephen the Martyr",
+    "Birth_Name": "Stephen",
+    "Birth_Date": "0005",
+    "Historical_Birthplace": "Unknown, Roman Empire",
+    "Modern_Birthplace": "Unknown",
+    "Death_Date": "0034",
+    "Historical_Death_Place": "Jerusalem, Judaea, Roman Empire",
+    "Modern_Death_Place": "Jerusalem, Israel",
+    "Feast_Day": "12-26",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Courage",
+      "Forgiveness"
+    ],
+    "Patron_Of": [
+      "Deacons",
+      "Altar Servers",
+      "Bricklayers",
+      "Casket Makers",
+      "Stonemasons"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Ordained as one of the first deacons of the Church",
+      "Delivered a powerful speech before the Sanhedrin recounting salvation history",
+      "Stoned to death for proclaiming Jesus as the Son of God"
+    ],
+    "Notable_Contributions": [
+      "First Christian martyr (Protomartyr)",
+      "Model of forgiveness, praying for his persecutors at death",
+      "Inspired early Christians with his faith and witness"
+    ],
+    "Quotes": [
+      "Lord Jesus, receive my spirit.",
+      "Lord, do not hold this sin against them."
+    ],
+    "Vocation_Job": "Deacon, Evangelist",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Barnabas",
+    "Birth_Name": "Joseph",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Salamis, Roman Cyprus",
+    "Modern_Birthplace": "Salamis, Cyprus",
+    "Death_Date": "0061",
+    "Historical_Death_Place": "Salamis, Roman Cyprus",
+    "Modern_Death_Place": "Salamis, Cyprus",
+    "Feast_Day": "June 11",
+    "Virtues_Traits": [
+      "Kindness",
+      "Generosity",
+      "Encouragement",
+      "Perseverance",
+      "Teamwork"
+    ],
+    "Patron_Of": [
+      "Cyprus",
+      "Antioch",
+      "Against hailstorms",
+      "Peacemakers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Joined the Jerusalem church after Christ's resurrection",
+      "Sold his property and donated all proceeds to the apostles",
+      "Introduced Paul to the apostles in Jerusalem",
+      "Preached in Antioch where followers were first called 'Christians'",
+      "Undertook missionary journeys with Paul",
+      "Participated in the Council of Jerusalem to resolve disputes over Gentile converts"
+    ],
+    "Notable_Contributions": [
+      "Helped establish the Church in Antioch",
+      "Evangelized among Gentiles",
+      "Strengthened early Christian communities",
+      "Promoted unity and reconciliation within the Church"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Apostle, Missionary, Preacher",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Luke the Evangelist",
+    "Birth_Name": "Luke of Antioch",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Antioch, Roman Empire",
+    "Modern_Birthplace": "Antakya, Hatay, Turkey",
+    "Death_Date": "Approximately 090 AD",
+    "Historical_Death_Place": "Thebes, Boeotia, Achaea, Roman Empire",
+    "Modern_Death_Place": "Thebes, Greece",
+    "Feast_Day": "October 18",
+    "Virtues_Traits": [
+      "Compassion",
+      "Dedication to truth",
+      "Healing",
+      "Artistic creativity"
+    ],
+    "Patron_Of": [
+      "Artists",
+      "Physicians",
+      "Bachelors",
+      "Notaries",
+      "Butchers",
+      "Brewers",
+      "Glassworkers",
+      "Goldsmiths"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Accompanied St. Paul on missionary journeys",
+      "Authored the Gospel of Luke and the Acts of the Apostles",
+      "Witnessed key events in early Christianity, including the road to Emmaus encounter",
+      "Ordained as Bishop of Thebes"
+    ],
+    "Notable_Contributions": [
+      "Authored over 25% of the New Testament",
+      "Wrote the Gospel of Luke, emphasizing social justice and salvation for all",
+      "Chronicled the actions of the Apostles in the Acts of the Apostles",
+      "Traditionally credited as the first Christian iconographer"
+    ],
+    "Quotes": [
+      "Blessed are the poor."
+    ],
+    "Vocation_Job": "Evangelist, Physician, Historian",
+    "Conversion_Status": "Convert from Paganism",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Mark the Evangelist",
+    "Birth_Name": "John Mark",
+    "Birth_Date": "0012",
+    "Historical_Birthplace": "Cyrene, Roman Empire",
+    "Modern_Birthplace": "Shahat, Libya",
+    "Death_Date": "0068-04-25",
+    "Historical_Death_Place": "Alexandria, Roman Egypt",
+    "Modern_Death_Place": "Alexandria, Egypt",
+    "Feast_Day": "April 25",
+    "Virtues_Traits": [
+      "Courage",
+      "Evangelical zeal",
+      "Faithfulness"
+    ],
+    "Patron_Of": [
+      "Notaries",
+      "Attorneys",
+      "Venice",
+      "Egypt",
+      "Lion tamers",
+      "Glass workers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Authored the Gospel of Mark",
+      "Companion of St. Peter and St. Paul",
+      "Founded the Church in Alexandria",
+      "Served as the first Bishop of Alexandria"
+    ],
+    "Notable_Contributions": [
+      "Wrote the Gospel of Mark, the earliest and shortest Gospel",
+      "Established Christianity in Africa through his mission in Alexandria",
+      "Created the theological school in Alexandria"
+    ],
+    "Quotes": [
+      "The beginning of the gospel of Jesus Christ the Son of God."
+    ],
+    "Vocation_Job": "Evangelist, Gospel Writer, Missionary, Bishop",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Mary Magdalene",
+    "Birth_Name": "Mary of Magdala",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Magdala, Roman Judea",
+    "Modern_Birthplace": "Magdala, Israel",
+    "Death_Date": "Unknown",
+    "Historical_Death_Place": "Possibly Ephesus, Roman Province of Asia",
+    "Modern_Death_Place": "Selçuk, Turkey",
+    "Feast_Day": "July 22",
+    "Virtues_Traits": [
+      "Devotion",
+      "Repentance",
+      "Loyalty"
+    ],
+    "Patron_Of": [
+      "Converts",
+      "Repentant sinners",
+      "Perfume makers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Healed by Jesus who cast out seven demons",
+      "Witnessed the Crucifixion of Christ",
+      "First to witness the Resurrection of Christ",
+      "Proclaimed the Resurrection to the Apostles"
+    ],
+    "Notable_Contributions": [
+      "First witness to the Resurrection of Jesus",
+      "Proclaimed the Good News of the Resurrection",
+      "Example of repentance and deep faith"
+    ],
+    "Quotes": [
+      "I have seen the Lord."
+    ],
+    "Vocation_Job": "Disciple of Jesus",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Augustine of Hippo",
+    "Birth_Name": "Aurelius Augustinus",
+    "Birth_Date": "0354-11-13",
+    "Historical_Birthplace": "Thagaste, Numidia, Roman Empire",
+    "Modern_Birthplace": "Souk Ahras, Algeria",
+    "Death_Date": "0430-08-28",
+    "Historical_Death_Place": "Hippo Regius, Roman Empire",
+    "Modern_Death_Place": "Annaba, Algeria",
+    "Feast_Day": "August 28",
+    "Virtues_Traits": [
+      "Humility",
+      "Devotion",
+      "Intellectual brilliance"
+    ],
+    "Patron_Of": [
+      "Theologians",
+      "Printers",
+      "Brewers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Augustinians",
+    "Major_Events": [
+      "Converted to Christianity under the influence of St. Ambrose",
+      "Baptized in 387 along with his son Adeodatus",
+      "Became Bishop of Hippo in 395",
+      "Combated Manichaeism, Donatism, and Pelagianism",
+      "Wrote influential works like 'Confessions' and 'The City of God'"
+    ],
+    "Notable_Contributions": [
+      "Formulated the doctrine of original sin",
+      "Developed just war theory",
+      "Authored over five million words on theology and philosophy",
+      "Provided foundational contributions to Western Christianity and philosophy"
+    ],
+    "Quotes": [
+      "You have made us for yourself, O Lord, and our heart is restless until it rests in you.",
+      "Faith is to believe what you do not see; the reward of this faith is to see what you believe."
+    ],
+    "Vocation_Job": "Bishop, Theologian, Philosopher",
+    "Conversion_Status": "Convert to Christianity",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Ambrose of Milan",
+    "Birth_Name": "Aurelius Ambrosius",
+    "Birth_Date": "0340",
+    "Historical_Birthplace": "Trier, Belgica, Roman Empire",
+    "Modern_Birthplace": "Trier, Germany",
+    "Death_Date": "0397-04-04",
+    "Historical_Death_Place": "Milan, Western Roman Empire",
+    "Modern_Death_Place": "Milan, Italy",
+    "Feast_Day": "12-07",
+    "Virtues_Traits": [
+      "Generosity",
+      "Humility",
+      "Courage",
+      "Wisdom"
+    ],
+    "Patron_Of": [
+      "Beekeepers",
+      "Bees",
+      "Candlemakers",
+      "Milan"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Became Bishop of Milan in 374 by popular acclamation",
+      "Fought against Arianism and defended Nicene Christianity",
+      "Baptized and mentored Saint Augustine of Hippo",
+      "Excommunicated Emperor Theodosius I after the Thessalonica massacre",
+      "Introduced Ambrosian hymns and church music practices"
+    ],
+    "Notable_Contributions": [
+      "Defended Church independence from state control",
+      "Wrote influential theological works like 'De Fide' and 'De Officiis Ministrorum'",
+      "Promoted the Christianization of the Roman Empire",
+      "Contributed to early church-state relations"
+    ],
+    "Quotes": [
+      "\"When I am at Rome, I fast on a Saturday; when I am at Milan, I do not. Follow the custom of the church where you are.\"",
+      "\"The emperor is in the Church, not above the Church.\"",
+      "\"If the Church has gold it is not to protect it, but to give it to those in need.\""
+    ],
+    "Vocation_Job": "Bishop, Theologian, Statesman, Church Father, Doctor of the Church",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Jerome",
+    "Birth_Name": "Eusebius Sophronius Hieronymus",
+    "Birth_Date": "0347",
+    "Historical_Birthplace": "Stridon, Dalmatia",
+    "Modern_Birthplace": "Stridon, likely in Croatia or Slovenia",
+    "Death_Date": "0420-09-30",
+    "Historical_Death_Place": "Bethlehem, Palestine",
+    "Modern_Death_Place": "Bethlehem, Israel/Palestine",
+    "Feast_Day": "09-30",
+    "Virtues_Traits": [
+      "Diligence",
+      "Scholarship",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Archaeologists",
+      "Biblical scholars",
+      "Librarians",
+      "Students",
+      "Translators"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Baptized by Pope Liberius in 366",
+      "Lived as a hermit in the Desert of Chalcis for four years",
+      "Ordained as a priest in Antioch under the condition of pursuing monastic life",
+      "Served as secretary to Pope Damasus I",
+      "Translated the Bible into Latin, known as the Vulgate",
+      "Established a monastery, convents, and a hostel in Bethlehem"
+    ],
+    "Notable_Contributions": [
+      "Translation of the Bible into Latin (the Vulgate)",
+      "Defended the perpetual virginity of Mary",
+      "Wrote extensive biblical commentaries and theological works",
+      "Promoted monasticism and asceticism"
+    ],
+    "Quotes": [
+      "Ignorance of the Scriptures is ignorance of Christ.",
+      "Let holy reading be always at hand. Sleep may fall upon thee as thou lookest thereon, and the sacred page find thy face downcast.",
+      "Be ever engaged, so that whenever the devil calls he may find you occupied."
+    ],
+    "Vocation_Job": "Priest, Theologian, Translator, Biblical Scholar, Monk",
+    "Conversion_Status": "Convert (baptized as an adult)",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Gregory the Great",
+    "Birth_Name": "Gregorius Anicius",
+    "Birth_Date": "0540",
+    "Historical_Birthplace": "Rome, Eastern Roman Empire",
+    "Modern_Birthplace": "Rome, Italy",
+    "Death_Date": "0604-03-12",
+    "Historical_Death_Place": "Rome, Eastern Roman Empire",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "09-03",
+    "Virtues_Traits": [
+      "Charity",
+      "Humility",
+      "Wisdom",
+      "Leadership"
+    ],
+    "Patron_Of": [
+      "Musicians",
+      "Singers",
+      "Teachers",
+      "Epilepsy",
+      "England"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Elected as Pope on 590-09-03",
+      "Initiated the Gregorian Mission to England in 597",
+      "Reorganized the papal treasury to aid the poor and victims of famine",
+      "Introduced liturgical reforms influencing Gregorian chant",
+      "Articulated the doctrine of Purgatory"
+    ],
+    "Notable_Contributions": [
+      "Reasserted papal authority across Europe",
+      "Expanded missionary work, particularly to the Anglo-Saxons",
+      "Reformed Church liturgy and administration",
+      "Authored influential theological works including 'Pastoral Rule' and 'Moralia on Job'"
+    ],
+    "Quotes": [
+      "The only true riches are those that make us rich in virtue."
+    ],
+    "Vocation_Job": "Pope, Monk, Theologian, Administrator",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": true,
+      "Pontifical_Motto": "Servus Servorum Dei (Servant of the Servants of God)"
+    }
+  },
+  {
+    "Name": "Saint Thomas Aquinas",
+    "Birth_Name": "Thomas d'Aquino",
+    "Birth_Date": "1225",
+    "Historical_Birthplace": "Roccasecca, Kingdom of Sicily",
+    "Modern_Birthplace": "Roccasecca, Italy",
+    "Death_Date": "1274-03-07",
+    "Historical_Death_Place": "Fossanova, Papal States",
+    "Modern_Death_Place": "Fossanova, Italy",
+    "Feast_Day": "01-28",
+    "Virtues_Traits": [
+      "Wisdom",
+      "Faith",
+      "Humility",
+      "Intellectual Rigor"
+    ],
+    "Patron_Of": [
+      "Catholic Schools",
+      "Theologians",
+      "Philosophers",
+      "Students"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Dominicans",
+    "Major_Events": [
+      "Joined the Dominican Order in 1244",
+      "Authored 'Summa Theologiae' and 'Summa Contra Gentiles'",
+      "Taught at the University of Paris",
+      "Advised Popes and participated in theological debates",
+      "Canonized in 1323 by Pope John XXII"
+    ],
+    "Notable_Contributions": [
+      "Developed the synthesis of faith and reason",
+      "Authored theological and philosophical works including 'Summa Theologiae'",
+      "Established the Five Ways (proofs for the existence of God)",
+      "Incorporated Aristotelian philosophy into Christian theology",
+      "Composed hymns such as 'Tantum Ergo Sacramentum' and 'Adoro Te Devote'"
+    ],
+    "Quotes": [
+      "To one who has faith, no explanation is necessary. To one without faith, no explanation is possible.",
+      "The things that we love tell us what we are."
+    ],
+    "Vocation_Job": "Theologian, Philosopher, Priest, Educator",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Francis of Assisi",
+    "Birth_Name": "Giovanni di Pietro di Bernardone",
+    "Birth_Date": "1181",
+    "Historical_Birthplace": "Assisi, duchy of Spoleto",
+    "Modern_Birthplace": "Assisi, Italy",
+    "Death_Date": "1226-10-03",
+    "Historical_Death_Place": "Assisi, duchy of Spoleto",
+    "Modern_Death_Place": "Assisi, Italy",
+    "Feast_Day": "October 4",
+    "Virtues_Traits": [
+      "Poverty",
+      "Humility",
+      "Compassion",
+      "Love for nature"
+    ],
+    "Patron_Of": [
+      "Ecologists",
+      "Animals",
+      "The environment",
+      "Italy"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Franciscans",
+    "Major_Events": [
+      "Founded the Franciscan Order in 1209",
+      "Received the stigmata in 1224",
+      "Canonized on July 16, 1228 by Pope Gregory IX",
+      "Established the Poor Clares and the Third Order of Franciscans"
+    ],
+    "Notable_Contributions": [
+      "Promoted evangelical poverty and devotion to Christ",
+      "Inspired the Franciscan movement, one of the largest religious orders",
+      "Wrote the 'Canticle of the Creatures', a hymn celebrating creation",
+      "Introduced the first living Nativity scene"
+    ],
+    "Quotes": [
+      "This is what I wish; this is what I am seeking. This is what I want to do from the bottom of my heart.",
+      "Praise be to you, my Lord, through our Sister, Mother Earth, who sustains and governs us."
+    ],
+    "Vocation_Job": "Friar, Preacher, Mystic",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Dominic",
+    "Birth_Name": "Dominic de Guzmán",
+    "Birth_Date": "1170",
+    "Historical_Birthplace": "Caleruega, Kingdom of Castile",
+    "Modern_Birthplace": "Caleruega, Spain",
+    "Death_Date": "1221-08-06",
+    "Historical_Death_Place": "Bologna, Holy Roman Empire",
+    "Modern_Death_Place": "Bologna, Italy",
+    "Feast_Day": "August 8",
+    "Virtues_Traits": [
+      "Poverty",
+      "Compassion",
+      "Intellectual rigor",
+      "Evangelical zeal"
+    ],
+    "Patron_Of": [
+      "Astronomers",
+      "Dominican Republic",
+      "Falsely accused people"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Dominicans (Order of Preachers)",
+    "Major_Events": [
+      "Founded the Order of Preachers, commonly known as the Dominicans, in 1216",
+      "Established the first Dominican convent at Prouille, France in 1206",
+      "Engaged in preaching missions against the Cathar heresy in southern France",
+      "Received papal approval for the Dominican Order from Pope Honorius III in 1216",
+      "Canonized as a saint by Pope Gregory IX in 1234"
+    ],
+    "Notable_Contributions": [
+      "Founded the Dominican Order, emphasizing intellectual study and preaching",
+      "Promoted the reform of religious orders and theological education",
+      "Advocated for a life of poverty and simplicity among preachers",
+      "Spread the use of the rosary as an important Marian devotion"
+    ],
+    "Quotes": [
+      "Arm yourself with prayer rather than a sword; wear humility rather than fine clothes."
+    ],
+    "Vocation_Job": "Priest, Founder of the Dominican Order, Theologian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Benedict of Nursia",
+    "Birth_Name": "Benedict of Nursia",
+    "Birth_Date": "0480-03-02",
+    "Historical_Birthplace": "Nursia, Ostrogothic Kingdom",
+    "Modern_Birthplace": "Norcia, Italy",
+    "Death_Date": "0547-03-21",
+    "Historical_Death_Place": "Monte Cassino, Ostrogothic Kingdom",
+    "Modern_Death_Place": "Monte Cassino, Italy",
+    "Feast_Day": "07-11",
+    "Virtues_Traits": [
+      "Balance",
+      "Moderation",
+      "Reasonableness"
+    ],
+    "Patron_Of": [
+      "Europe",
+      "Monks",
+      "Farmers",
+      "Architects",
+      "Dying people",
+      "Schoolchildren",
+      "Agricultural workers",
+      "Civil engineers",
+      "Cave explorers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Founded twelve monasteries at Subiaco",
+      "Established the monastery at Monte Cassino",
+      "Formulated the Rule of Saint Benedict"
+    ],
+    "Notable_Contributions": [
+      "Considered the Father of Western Monasticism",
+      "Developed the Benedictine Rule, a foundational text for monastic life",
+      "Established principles of communal prayer, manual labor, and spiritual growth"
+    ],
+    "Quotes": [
+      "Idleness is the enemy of the soul.",
+      "He who labors as he prays lifts his heart to God."
+    ],
+    "Vocation_Job": "Monk, Abbot, Theologian, Founder of Western Monasticism",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Scholastica",
+    "Birth_Name": "Scholastica",
+    "Birth_Date": "0480",
+    "Historical_Birthplace": "Nursia, Kingdom of Italy",
+    "Modern_Birthplace": "Norcia, Italy",
+    "Death_Date": "0543-02-10",
+    "Historical_Death_Place": "Near Monte Cassino, Kingdom of Italy",
+    "Modern_Death_Place": "Monte Cassino, Italy",
+    "Feast_Day": "February 10",
+    "Virtues_Traits": [
+      "Devotion",
+      "Faith",
+      "Love"
+    ],
+    "Patron_Of": [
+      "Nuns",
+      "Convulsive children",
+      "Protection from rain",
+      "Protection from storms",
+      "Education"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Founded the first convent of Benedictine nuns near Monte Cassino",
+      "Annual spiritual meetings with her brother, Saint Benedict",
+      "Legendary prayer for a storm to converse longer with Saint Benedict"
+    ],
+    "Notable_Contributions": [
+      "Established Benedictine monastic life for women",
+      "Advocated for the contemplative dimension of monasticism",
+      "Inspired the spread of convent schools and education for women"
+    ],
+    "Quotes": [
+      "When I appealed to you, you would not listen to me. So I turned to my God and He heard my prayer."
+    ],
+    "Vocation_Job": "Nun, Abbess",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Clare of Assisi",
+    "Birth_Name": "Chiara Offreduccio",
+    "Birth_Date": "1194-07-16",
+    "Historical_Birthplace": "Assisi, Duchy of Spoleto, Holy Roman Empire",
+    "Modern_Birthplace": "Assisi, Italy",
+    "Death_Date": "1253-08-11",
+    "Historical_Death_Place": "Assisi, Duchy of Spoleto, Holy Roman Empire",
+    "Modern_Death_Place": "Assisi, Italy",
+    "Feast_Day": "08-11",
+    "Virtues_Traits": [
+      "Poverty",
+      "Humility",
+      "Faith",
+      "Courage",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Television",
+      "Eye diseases",
+      "Goldsmiths",
+      "Laundry workers",
+      "Embroiderers",
+      "Needle workers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Order of Poor Ladies (Poor Clares)",
+    "Major_Events": [
+      "Founded the Order of Poor Ladies (later known as the Poor Clares) in 1212",
+      "Defended Assisi from invaders with the Blessed Sacrament in 1244",
+      "Received a vision of Mass while bedridden, leading to her patronage of television",
+      "Wrote the first monastic rule for women, approved shortly before her death in 1253"
+    ],
+    "Notable_Contributions": [
+      "Established a new model of monastic life for women based on poverty and simplicity",
+      "Inspired the foundation of 22 monastic houses during her lifetime",
+      "Defended the radical commitment to poverty of her order against ecclesiastical opposition",
+      "Performed miracles, including healing and protecting her convent from invaders"
+    ],
+    "Quotes": [
+      "Love God, serve God; everything is in that.",
+      "O Lord, protect these Sisters whom I cannot protect now.",
+      "They say that we are too poor, but can a heart which possesses the infinite God be truly called poor?"
+    ],
+    "Vocation_Job": "Nun, Abbess, Foundress",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Catherine of Siena",
+    "Birth_Name": "Caterina di Jacopo di Benincasa",
+    "Birth_Date": "1347-03-25",
+    "Historical_Birthplace": "Siena, Republic of Siena",
+    "Modern_Birthplace": "Siena, Italy",
+    "Death_Date": "1380-04-29",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "April 29",
+    "Virtues_Traits": [
+      "Mysticism",
+      "Compassion",
+      "Spiritual Devotion",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Italy",
+      "Europe",
+      "Fire Prevention",
+      "Nurses"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Third Order of St. Dominic",
+    "Major_Events": [
+      "Mystical marriage to Christ at age 21",
+      "Advocated for Pope Gregory XI to return the papacy to Rome",
+      "Supported Pope Urban VI during the Great Schism",
+      "Authored 'The Dialogue of Divine Providence'",
+      "Established a monastery for women in Siena"
+    ],
+    "Notable_Contributions": [
+      "Played a key role in resolving Church political conflicts",
+      "Wrote over 400 letters on theology and Church reform",
+      "Declared a Doctor of the Church in 1970",
+      "Influenced the return of the papacy from Avignon to Rome"
+    ],
+    "Quotes": [
+      "Be who God meant you to be and you will set the world on fire.",
+      "Proclaim the truth and do not be silent through fear.",
+      "You are rewarded not according to your work or your time but according to the measure of your love."
+    ],
+    "Vocation_Job": "Mystic, Theologian, Political Advocate, Dominican Tertiary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Teresa of Ávila",
+    "Birth_Name": "Teresa Sánchez de Cepeda Dávila y Ahumada",
+    "Birth_Date": "1515-03-28",
+    "Historical_Birthplace": "Ávila, Crown of Castile",
+    "Modern_Birthplace": "Ávila, Spain",
+    "Death_Date": "1582-10-04",
+    "Historical_Death_Place": "Alba de Tormes, Crown of Castile",
+    "Modern_Death_Place": "Alba de Tormes, Spain",
+    "Feast_Day": "October 15",
+    "Virtues_Traits": [
+      "Humility",
+      "Perseverance",
+      "Charity",
+      "Mystical insight"
+    ],
+    "Patron_Of": [
+      "Spain",
+      "People in religious orders",
+      "Sick people",
+      "People ridiculed for their piety",
+      "Chess players"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Discalced Carmelites",
+    "Major_Events": [
+      "Founded the Discalced Carmelite reform in 1562",
+      "Established 17 convents for nuns and 15 monasteries with the help of St. John of the Cross",
+      "Authored spiritual classics like 'The Interior Castle' and 'The Way of Perfection'",
+      "Declared the first female Doctor of the Church in 1970"
+    ],
+    "Notable_Contributions": [
+      "Reformed the Carmelite Order to restore its original austerity and contemplative focus",
+      "Wrote extensively on Christian mysticism and mental prayer, leaving a lasting legacy in theology",
+      "Developed a structured guide for spiritual growth in her work 'The Interior Castle'"
+    ],
+    "Quotes": [
+      "Let nothing perturb you, nothing frighten you. All things pass. God does not change. Patience achieves everything.",
+      "It is for you to look at Him, for He never takes His eyes off you.",
+      "Lord, either let me suffer or let me die."
+    ],
+    "Vocation_Job": "Carmelite nun, Mystic, Author, Religious Reformer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John of the Cross",
+    "Birth_Name": "Juan de Yepes Álvarez",
+    "Birth_Date": "1542",
+    "Historical_Birthplace": "Fontiveros, Old Castile, Spain",
+    "Modern_Birthplace": "Fontiveros, Spain",
+    "Death_Date": "1591-12-14",
+    "Historical_Death_Place": "Úbeda, Kingdom of Spain",
+    "Modern_Death_Place": "Úbeda, Spain",
+    "Feast_Day": "12-14",
+    "Virtues_Traits": [
+      "Mysticism",
+      "Humility",
+      "Perseverance",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "Contemplatives",
+      "Mystics",
+      "Spanish poets"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Discalced Carmelites",
+    "Major_Events": [
+      "Co-founded the Discalced Carmelite reform with St. Teresa of Ávila in 1568",
+      "Imprisoned for nine months due to reforms within the Carmelite Order",
+      "Wrote significant mystical and spiritual works while in captivity",
+      "Played a key role in the establishment and leadership of reformed Carmelite monasteries"
+    ],
+    "Notable_Contributions": [
+      "Authored profound spiritual and mystical works, including 'Dark Night of the Soul', 'Ascent of Mount Carmel', and 'A Spiritual Canticle'",
+      "Reformed the Carmelite Order alongside St. Teresa of Ávila",
+      "Influenced Catholic mystical theology and spirituality profoundly"
+    ],
+    "Quotes": [
+      "Where there is no love, put love, and you will find love.",
+      "In the twilight of life, God will not judge us on our earthly possessions and human successes, but on how well we have loved.",
+      "To reach where you are not, you have to go through where you are not. To achieve everything, do not want to own anything. To come to be everything, not wanting to be anything."
+    ],
+    "Vocation_Job": "Mystic, Priest, Poet, Theologian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Ignatius of Loyola",
+    "Birth_Name": "Íñigo López de Oñaz y Loyola",
+    "Birth_Date": "1491",
+    "Historical_Birthplace": "Castle Loyola, Guipúzcoa, Crown of Castile",
+    "Modern_Birthplace": "Azpeitia, Gipuzkoa, Spain",
+    "Death_Date": "1556-07-31",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "July 31",
+    "Virtues_Traits": [
+      "Devotion",
+      "Obedience",
+      "Spiritual Discipline"
+    ],
+    "Patron_Of": [
+      "Society of Jesus",
+      "Soldiers",
+      "Spiritual Retreats",
+      "Basque Provinces",
+      "Accidents and Injuries"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Society of Jesus (Jesuits)",
+    "Major_Events": [
+      "Founded the Society of Jesus in 1540",
+      "Published 'Spiritual Exercises' in 1548",
+      "Elected the first Superior General of the Jesuits in 1541"
+    ],
+    "Notable_Contributions": [
+      "Developed Ignatian Spirituality through 'Spiritual Exercises'",
+      "Reformative role in the Counter-Reformation",
+      "Established Jesuit educational and missionary efforts globally"
+    ],
+    "Quotes": [
+      "Man was created to praise, reverence and serve God our Lord, and by this means to save his soul."
+    ],
+    "Vocation_Job": "Catholic Priest, Theologian, Founder of the Jesuits",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Francis Xavier",
+    "Birth_Name": "Francis Xavier",
+    "Birth_Date": "1506-04-07",
+    "Historical_Birthplace": "Xavier Castle, Kingdom of Navarre",
+    "Modern_Birthplace": "Javier, Spain",
+    "Death_Date": "1552-12-03",
+    "Historical_Death_Place": "Sancian Island, China",
+    "Modern_Death_Place": "Shangchuan Island, China",
+    "Feast_Day": "December 3",
+    "Virtues_Traits": [
+      "Zeal",
+      "Perseverance",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Catholic Missions",
+      "African Missions",
+      "Goa",
+      "India",
+      "China",
+      "Missionaries"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Jesuits (Society of Jesus)",
+    "Major_Events": [
+      "Co-founded the Society of Jesus in 1534",
+      "Ordained as a priest on June 24, 1537",
+      "Missionary work in India, Japan, and the Malay Archipelago",
+      "Converted thousands, including baptizing 10,000 in India in late 1544",
+      "Died while attempting to enter China for evangelization"
+    ],
+    "Notable_Contributions": [
+      "Pioneered missionary work in Asia, particularly in India and Japan",
+      "Translated the Catechism into local languages",
+      "Helped establish Christianity in regions previously untouched by European missionaries",
+      "Founded schools and colleges for educating priests and catechists"
+    ],
+    "Quotes": [
+      "All these dangers and discomforts, when borne for the love of our Lord Jesus Christ, are treasuries filled with heavenly consolations, so much so that one might lose one’s eyesight from weeping so abundantly the sweetest tears of joy."
+    ],
+    "Vocation_Job": "Missionary, Priest, Theologian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Aloysius Gonzaga",
+    "Birth_Name": "Aloysius Gonzaga",
+    "Birth_Date": "1568-03-09",
+    "Historical_Birthplace": "Castiglione delle Stiviere, Republic of Venice",
+    "Modern_Birthplace": "Castiglione delle Stiviere, Italy",
+    "Death_Date": "1591-06-21",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "06-21",
+    "Virtues_Traits": [
+      "Purity",
+      "Humility",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Catholic Youth",
+      "Teenagers",
+      "Seminarians",
+      "Students",
+      "AIDS patients"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Society of Jesus (Jesuits)",
+    "Major_Events": [
+      "Received First Communion from St. Charles Borromeo in 1580",
+      "Joined the Society of Jesus in 1585",
+      "Renounced his inheritance and title at age 18",
+      "Volunteered to serve plague victims in Rome in 1591"
+    ],
+    "Notable_Contributions": [
+      "Exemplified purity and virtue in a corrupt society",
+      "Dedicated his life to teaching catechism and serving the needy",
+      "Inspired the establishment of academic institutions in his honor"
+    ],
+    "Quotes": [
+      "\"O Lord, leave me!\" (uttered when striving to balance his mystical experiences with obedience to his superiors)"
+    ],
+    "Vocation_Job": "Jesuit Novice, Religious",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Vincent de Paul",
+    "Birth_Name": "Vincent de Paul",
+    "Birth_Date": "1581-04-24",
+    "Historical_Birthplace": "Pouy, Kingdom of France",
+    "Modern_Birthplace": "Saint-Vincent-de-Paul, France",
+    "Death_Date": "1660-09-27",
+    "Historical_Death_Place": "Paris, Kingdom of France",
+    "Modern_Death_Place": "Paris, France",
+    "Feast_Day": "September 27",
+    "Virtues_Traits": [
+      "Charity",
+      "Humility",
+      "Compassion",
+      "Meekness"
+    ],
+    "Patron_Of": [
+      "Charities",
+      "Hospitals",
+      "Horses",
+      "Lepers",
+      "Lost Articles",
+      "Prisoners",
+      "Spiritual Help",
+      "Society of St. Vincent de Paul"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Mission (Vincentians)",
+    "Major_Events": [
+      "Ordained a priest in 1600",
+      "Captured and enslaved by Barbary pirates in 1605, escaped in 1607",
+      "Founded the Congregation of the Mission in 1625",
+      "Co-founded the Daughters of Charity in 1633",
+      "Pioneered seminary education and clergy reform in France"
+    ],
+    "Notable_Contributions": [
+      "Reformed clergy education and training",
+      "Organized widespread charitable works for the poor and sick",
+      "Inspired the foundation of the Society of St. Vincent de Paul",
+      "Established hospitals and relief missions for the poor"
+    ],
+    "Quotes": [
+      "The most powerful weapon to conquer the devil is humility. For, as he does not know at all how to employ it, neither does he know how to defend himself from it.",
+      "Make it a practice to judge persons and things in the most favorable light at all times and under all circumstances.",
+      "We must have a high regard for the promises we make to God and, ever more, for carrying them out."
+    ],
+    "Vocation_Job": "Priest, Founder of Religious Orders, Educator, Charitable Worker",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Louise de Marillac",
+    "Birth_Name": "Louise de Marillac",
+    "Birth_Date": "1591-08-12",
+    "Historical_Birthplace": "Ferrières-en-Brie near Meux, Kingdom of France",
+    "Modern_Birthplace": "Ferrières-en-Brie, France",
+    "Death_Date": "1660-03-15",
+    "Historical_Death_Place": "Paris, Kingdom of France",
+    "Modern_Death_Place": "Paris, France",
+    "Feast_Day": "May 9",
+    "Virtues_Traits": [
+      "Compassion",
+      "Perseverance",
+      "Docility to God's will"
+    ],
+    "Patron_Of": [
+      "Social workers",
+      "Sick people",
+      "Widows",
+      "Orphans"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Daughters of Charity",
+    "Major_Events": [
+      "Co-founded the Daughters of Charity with St. Vincent de Paul in 1633",
+      "Established hospitals, orphanages, and schools across France",
+      "Wrote the rule for the Daughters of Charity, which was approved in 1655"
+    ],
+    "Notable_Contributions": [
+      "Revolutionized the role of women in religious life through active service outside convents",
+      "Led humanitarian efforts to care for the sick, poor, and orphaned",
+      "Inspired the global expansion of the Daughters of Charity to serve the needy"
+    ],
+    "Quotes": [
+      "On the day of St. Sebastian, I was in the church at Montmartre when I felt a strong calling to give myself to God so as to do his most holy will for my entire life.",
+      "The people of Charity know the happiness of having this relationship with Our Lord, of being with Him wherever they go to help their neighbour."
+    ],
+    "Vocation_Job": "Religious sister, Humanitarian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Elizabeth Ann Seton",
+    "Birth_Name": "Elizabeth Ann Bayley",
+    "Birth_Date": "1774-08-28",
+    "Historical_Birthplace": "New York City, Province of New York, British America",
+    "Modern_Birthplace": "New York City, New York, USA",
+    "Death_Date": "1821-01-04",
+    "Historical_Death_Place": "Emmitsburg, Maryland, United States",
+    "Modern_Death_Place": "Emmitsburg, Maryland, USA",
+    "Feast_Day": "01-04",
+    "Virtues_Traits": [
+      "Faith",
+      "Charity",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Catholic schools",
+      "Widows",
+      "Seafarers",
+      "In-law problems",
+      "Against the death of children",
+      "Death of parents"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Sisters of Charity of St. Joseph's",
+    "Major_Events": [
+      "Founded the Sisters of Charity of St. Joseph's in 1809",
+      "Established the first free Catholic school for girls in the U.S.",
+      "Canonized on September 14, 1975, by Pope Paul VI"
+    ],
+    "Notable_Contributions": [
+      "Pioneered Catholic education in the United States",
+      "Founded the first American congregation of religious sisters",
+      "Created foundations for Catholic charitable services in the U.S."
+    ],
+    "Quotes": [
+      "If [something] succeeds, I bless God, if it does not succeed … I bless God, because then it will be right that things should not succeed.",
+      "O my God! Forgive what I have been, correct what I am, and direct what I shall be.",
+      "Let my heart, lost in yours, have no other movement, no other will, no other love, than the will of my divine Master."
+    ],
+    "Vocation_Job": "Wife, Mother, Educator, Religious Foundress",
+    "Conversion_Status": "Convert to Catholicism in 1805",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John Bosco",
+    "Birth_Name": "Giovanni Melchiorre Bosco",
+    "Birth_Date": "1815-08-16",
+    "Historical_Birthplace": "Castelnuovo d'Asti, Piedmont, Sardinia-Piedmont",
+    "Modern_Birthplace": "Castelnuovo Don Bosco, Italy",
+    "Death_Date": "1888-01-31",
+    "Historical_Death_Place": "Turin, Kingdom of Italy",
+    "Modern_Death_Place": "Turin, Italy",
+    "Feast_Day": "January 31",
+    "Virtues_Traits": [
+      "Charity",
+      "Gentleness",
+      "Joy"
+    ],
+    "Patron_Of": [
+      "Apprentices",
+      "Editors",
+      "Publishers",
+      "Schoolchildren",
+      "Youth",
+      "Magicians",
+      "Juvenile delinquents"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Salesians of Don Bosco",
+    "Major_Events": [
+      "Founded the Salesians of Don Bosco in 1859",
+      "Established the Oratory of St. Francis de Sales for boys",
+      "Published the Salesian Bulletin",
+      "Founded the Daughters of Mary Help of Christians with St. Maria Domenica Mazzarello"
+    ],
+    "Notable_Contributions": [
+      "Developed the Salesian Preventive System of education based on love rather than punishment",
+      "Advocated for the rights of apprentices through labor contracts",
+      "Provided vocational training and catechetical education for underprivileged youth",
+      "Authored numerous religious and educational publications"
+    ],
+    "Quotes": [
+      "Not with violence, but with words.",
+      "Do not put off till tomorrow the good you can do today. You may not have a tomorrow.",
+      "Tell my boys that I wait for them all in Paradise."
+    ],
+    "Vocation_Job": "Priest, Educator, Writer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Maria Goretti",
+    "Birth_Name": "Maria Teresa Goretti",
+    "Birth_Date": "1890-10-16",
+    "Historical_Birthplace": "Corinaldo, Kingdom of Italy",
+    "Modern_Birthplace": "Corinaldo, Italy",
+    "Death_Date": "1902-07-06",
+    "Historical_Death_Place": "Nettuno, Kingdom of Italy",
+    "Modern_Death_Place": "Nettuno, Italy",
+    "Feast_Day": "July 6",
+    "Virtues_Traits": [
+      "Purity",
+      "Forgiveness",
+      "Chastity",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Purity",
+      "Chastity",
+      "Forgiveness",
+      "Rape victims",
+      "Young women",
+      "Teenagers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Resisted Alessandro Serenelli's assault, declaring it a sin against God",
+      "Forgave her attacker on her deathbed",
+      "Appeared in a dream to Alessandro Serenelli, leading to his conversion",
+      "Canonized as a saint by Pope Pius XII in 1950"
+    ],
+    "Notable_Contributions": [
+      "Became a model of purity and forgiveness",
+      "Inspired conversions and devotions to chastity and mercy",
+      "Patron saint of victims of sexual violence and youth"
+    ],
+    "Quotes": [
+      "No! It is a sin! God does not want it!",
+      "Yes, for the love of Jesus I forgive him... and I want him to be with me in Paradise."
+    ],
+    "Vocation_Job": "Layperson, Martyr",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Thérèse of Lisieux",
+    "Birth_Name": "Marie-Françoise-Thérèse Martin",
+    "Birth_Date": "1873-01-02",
+    "Historical_Birthplace": "Alençon, French Third Republic",
+    "Modern_Birthplace": "Alençon, France",
+    "Death_Date": "1897-09-30",
+    "Historical_Death_Place": "Lisieux, French Third Republic",
+    "Modern_Death_Place": "Lisieux, France",
+    "Feast_Day": "October 1",
+    "Virtues_Traits": [
+      "Humility",
+      "Magnanimity",
+      "Childlike Trust",
+      "Sacrificial Love"
+    ],
+    "Patron_Of": [
+      "Missionaries",
+      "Florists",
+      "Pilots",
+      "Priests",
+      "The Sick"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Carmelite",
+    "Major_Events": [
+      "Entered the Carmel of Lisieux at age 15 on 1888-04-09",
+      "Made her religious profession on 1890-09-08",
+      "Canonized by Pope Pius XI on 1925-05-17",
+      "Declared a Doctor of the Church by Pope John Paul II on 1997-10-19"
+    ],
+    "Notable_Contributions": [
+      "Developed the 'Little Way,' a path of spiritual childhood marked by trust and surrender",
+      "Authored 'Story of a Soul,' an influential spiritual autobiography",
+      "Promoted a spirituality of simplicity and profound love for God"
+    ],
+    "Quotes": [
+      "I shall spend my heaven in doing good upon earth.",
+      "I prefer the monotony of obscure sacrifice to all ecstasies. To pick up a pin for love can convert a soul.",
+      "My God, ‘I choose all!’ I don’t want to be a saint by halves; I’m not afraid to suffer for You."
+    ],
+    "Vocation_Job": "Carmelite Nun, Author",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Bernadette Soubirous",
+    "Birth_Name": "Marie-Bernarde Soubirous",
+    "Birth_Date": "1844-01-07",
+    "Historical_Birthplace": "Lourdes, Kingdom of France",
+    "Modern_Birthplace": "Lourdes, France",
+    "Death_Date": "1879-04-16",
+    "Historical_Death_Place": "Nevers, French Third Republic",
+    "Modern_Death_Place": "Nevers, France",
+    "Feast_Day": "April 16",
+    "Virtues_Traits": [
+      "Humility",
+      "Faithfulness",
+      "Obedience",
+      "Endurance"
+    ],
+    "Patron_Of": [
+      "Illness",
+      "People ridiculed for their piety",
+      "Poverty",
+      "Shepherds",
+      "Shepherdesses",
+      "Lourdes, France"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Sisters of Charity and Christian Instruction of Nevers",
+    "Major_Events": [
+      "Experienced 18 apparitions of the Virgin Mary at Lourdes in 1858",
+      "Identified the Virgin Mary as 'The Immaculate Conception'",
+      "Directed the building of a chapel at the apparition site",
+      "Canonized as a saint on December 8, 1933"
+    ],
+    "Notable_Contributions": [
+      "Inspired the establishment of the Marian shrine at Lourdes, a major pilgrimage site",
+      "Spread devotion to Our Lady of Lourdes",
+      "Lived a life of penance and prayer as a religious sister"
+    ],
+    "Quotes": [
+      "I must die to myself continually and accept trials without complaining.",
+      "Blessed Mary, Mother of God, pray for me. A poor sinner, a poor sinner.",
+      "All this is good for Heaven!"
+    ],
+    "Vocation_Job": "Visionary, Religious Sister",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Joan of Arc",
+    "Birth_Name": "Jeanne d'Arc",
+    "Birth_Date": "1412",
+    "Historical_Birthplace": "Domrémy, Duchy of Bar, Kingdom of France",
+    "Modern_Birthplace": "Domrémy-la-Pucelle, France",
+    "Death_Date": "1431-05-30",
+    "Historical_Death_Place": "Rouen, Duchy of Normandy, Kingdom of France",
+    "Modern_Death_Place": "Rouen, France",
+    "Feast_Day": "May 30",
+    "Virtues_Traits": [
+      "Courage",
+      "Faith",
+      "Determination"
+    ],
+    "Patron_Of": [
+      "France",
+      "Soldiers",
+      "Prisoners"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Led French forces to victory at the Siege of Orléans in 1429",
+      "Enabled the coronation of Charles VII in Reims",
+      "Captured by Burgundian forces in 1430 and sold to the English",
+      "Tried and executed for heresy in 1431"
+    ],
+    "Notable_Contributions": [
+      "Restored French morale during the Hundred Years' War",
+      "Symbolized national unity and faith in France",
+      "Canonized as a saint in 1920"
+    ],
+    "Quotes": [
+      "I am not afraid; I was born to do this.",
+      "If I am not, may God put me there; and if I am, may God so keep me.",
+      "In God's name! Let us go on bravely!",
+      "My words and deeds are all in God’s Hands: in all, I wait upon Him."
+    ],
+    "Vocation_Job": "Military Leader, Visionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Anthony of Padua",
+    "Birth_Name": "Fernando Martins de Bulhões",
+    "Birth_Date": "1195-08-15",
+    "Historical_Birthplace": "Lisbon, Kingdom of Portugal",
+    "Modern_Birthplace": "Lisbon, Portugal",
+    "Death_Date": "1231-06-13",
+    "Historical_Death_Place": "Arcella, Marquisate of Este",
+    "Modern_Death_Place": "Padua, Italy",
+    "Feast_Day": "June 13",
+    "Virtues_Traits": [
+      "Faith",
+      "Humility",
+      "Charity",
+      "Devotion to the poor and needy"
+    ],
+    "Patron_Of": [
+      "Lost articles",
+      "Animals",
+      "The poor",
+      "Sailors",
+      "Travelers",
+      "Expectant mothers",
+      "The elderly",
+      "Unmarried women"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Franciscans (Order of Friars Minor)",
+    "Major_Events": [
+      "Joined the Canons Regular of St. Augustine in 1210",
+      "Entered the Franciscan Order in 1220",
+      "Preached across Italy and southern France against heresies",
+      "Taught theology in Bologna and Montpellier",
+      "Proclaimed a Doctor of the Church by Pope Pius XII in 1946"
+    ],
+    "Notable_Contributions": [
+      "Renowned preacher and teacher of theology",
+      "Advocated for the poor and social justice",
+      "Known as the 'Wonder-worker' for miracles attributed to him",
+      "Writings include sermons for Sundays and feast days",
+      "Established Franciscan communities in Italy"
+    ],
+    "Quotes": [
+      "Actions speak louder than words; let your words teach and your actions speak.",
+      "Attribute to God every good that you have received. If you take credit for something that does not belong to you, you are committing theft."
+    ],
+    "Vocation_Job": "Priest, Theologian, Preacher",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Pio of Pietrelcina",
+    "Birth_Name": "Francesco Forgione",
+    "Birth_Date": "1887-05-25",
+    "Historical_Birthplace": "Pietrelcina, Kingdom of Italy",
+    "Modern_Birthplace": "Pietrelcina, Italy",
+    "Death_Date": "1968-09-23",
+    "Historical_Death_Place": "San Giovanni Rotondo, Italy",
+    "Modern_Death_Place": "San Giovanni Rotondo, Italy",
+    "Feast_Day": "09-23",
+    "Virtues_Traits": [
+      "Charity",
+      "Piety",
+      "Suffering",
+      "Prayerfulness"
+    ],
+    "Patron_Of": [
+      "Civil defense volunteers",
+      "Adolescents",
+      "Pietrelcina",
+      "Stress relief",
+      "January blues"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Capuchin Franciscans",
+    "Major_Events": [
+      "Received the stigmata in 1918, which remained until his death",
+      "Founded the Casa Sollievo della Sofferenza in 1956",
+      "Canonized by Pope John Paul II on 16 June 2002"
+    ],
+    "Notable_Contributions": [
+      "Devoted his life to prayer and the sacraments",
+      "Built the House for the Relief of Suffering",
+      "Provided spiritual direction and heard confessions for countless individuals"
+    ],
+    "Quotes": [
+      "Pray, hope and don’t worry. Worry is useless. Our Merciful Lord will listen to your prayer.",
+      "Prayer is the best weapon we possess, the key that opens the heart of God.",
+      "Today’s society does not pray. That is why it is falling apart."
+    ],
+    "Vocation_Job": "Priest, Mystic, Stigmatist",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Maximilian Kolbe",
+    "Birth_Name": "Raymund Kolbe",
+    "Birth_Date": "1894-01-08",
+    "Historical_Birthplace": "Zduńska Wola, Congress Poland, Russian Empire",
+    "Modern_Birthplace": "Zduńska Wola, Poland",
+    "Death_Date": "1941-08-14",
+    "Historical_Death_Place": "Auschwitz-Birkenau, Nazi Germany",
+    "Modern_Death_Place": "Oświęcim, Poland",
+    "Feast_Day": "08-14",
+    "Virtues_Traits": [
+      "Charity",
+      "Courage",
+      "Devotion to Mary",
+      "Selflessness"
+    ],
+    "Patron_Of": [
+      "Prisoners",
+      "Families",
+      "Journalists",
+      "Amateur radio operators",
+      "Pro-life movement",
+      "Drug addicts",
+      "People with eating disorders"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Conventual Franciscans",
+    "Major_Events": [
+      "Founded the Militia Immaculatae in 1917",
+      "Established Niepokalanów (City of the Immaculata) in Poland as a major evangelization center",
+      "Published devotional and anti-Nazi literature",
+      "Arrested by the Gestapo in 1941 and sent to Auschwitz",
+      "Volunteered to die in place of a fellow prisoner, Franciszek Gajowniczek"
+    ],
+    "Notable_Contributions": [
+      "Promoted devotion to the Virgin Mary",
+      "Advanced Marian theology, including insights on the Immaculate Conception",
+      "Used modern media for evangelization, including radio and publishing",
+      "Symbolized self-sacrifice and Christian love through his martyrdom"
+    ],
+    "Quotes": [
+      "I am a Catholic priest. I would like to take his place, because he has a wife and children.",
+      "Grant that I might praise Thee, O Most Holy Virgin. Grant that I might praise Thee with my effort and my personal sacrifice."
+    ],
+    "Vocation_Job": "Catholic Priest, Conventual Franciscan Friar",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Edith Stein",
+    "Birth_Name": "Edith Stein",
+    "Birth_Date": "1891-10-12",
+    "Historical_Birthplace": "Breslau, German Empire",
+    "Modern_Birthplace": "Wrocław, Poland",
+    "Death_Date": "1942-08-09",
+    "Historical_Death_Place": "Auschwitz Concentration Camp, Nazi-occupied Poland",
+    "Modern_Death_Place": "Auschwitz, Poland",
+    "Feast_Day": "August 9",
+    "Virtues_Traits": [
+      "Courage",
+      "Faith",
+      "Devotion to truth",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "Europe",
+      "Martyrs",
+      "Philosophers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Discalced Carmelites",
+    "Major_Events": [
+      "Converted to Catholicism on 1922-01-01 after reading the works of St. Teresa of Ávila",
+      "Entered the Discalced Carmelite convent in Cologne in 1934, taking the name Teresa Benedicta of the Cross",
+      "Wrote significant philosophical and theological works, including 'Finite and Eternal Being' and 'The Science of the Cross'",
+      "Arrested by the Gestapo on 1942-08-02 and deported to Auschwitz",
+      "Martyred in Auschwitz gas chambers on 1942-08-09"
+    ],
+    "Notable_Contributions": [
+      "Influenced Catholic philosophy by combining phenomenology with Thomism",
+      "Translated significant works of St. Thomas Aquinas",
+      "Wrote extensively on empathy, the human soul, and spiritual theology",
+      "Served as a symbol of solidarity with the Jewish people during the Holocaust"
+    ],
+    "Quotes": [
+      "The human person is not just something, but someone. Not just an object to be used, but a subject to be respected and loved.",
+      "Our neighbor's spiritual need transcends every commandment. Everything else we do is a means to an end. But love is an end already, since God is love.",
+      "To be a Christian means to forgive the inexcusable because God has forgiven the inexcusable in you."
+    ],
+    "Vocation_Job": "Philosopher, Theologian, Discalced Carmelite Nun",
+    "Conversion_Status": "Convert to Catholicism",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Kateri Tekakwitha",
+    "Birth_Name": "Tekakwitha",
+    "Birth_Date": "1656",
+    "Historical_Birthplace": "Ossernenon, New Netherland",
+    "Modern_Birthplace": "Auriesville, New York, United States",
+    "Death_Date": "1680-04-17",
+    "Historical_Death_Place": "St. Francis Xavier Mission at Sault St. Louis, New France",
+    "Modern_Death_Place": "Kahnawake, Quebec, Canada",
+    "Feast_Day": "07-14",
+    "Virtues_Traits": [
+      "Purity",
+      "Devotion",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Ecology",
+      "Environment",
+      "Indigenous Americans",
+      "People in exile"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Baptized at age 20 on Easter Sunday, 1676",
+      "Took a vow of perpetual virginity on March 25, 1679",
+      "Canonized on October 21, 2012, by Pope Benedict XVI"
+    ],
+    "Notable_Contributions": [
+      "First Native American canonized by the Catholic Church",
+      "Demonstrated exemplary devotion and penance",
+      "Inspired conversions among her people"
+    ],
+    "Quotes": [
+      "I have consecrated myself entirely to Jesus, the Son of Mary, and He alone I have chosen as a husband, and He alone will take me for a wife.",
+      "Who can tell me what is most pleasing to God that I may do it?"
+    ],
+    "Vocation_Job": "Layperson, Virgin",
+    "Conversion_Status": "Convert to Catholicism at age 19",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Damien of Molokai",
+    "Birth_Name": "Jozef De Veuster",
+    "Birth_Date": "1840-01-03",
+    "Historical_Birthplace": "Tremelo, Province of Brabant, Kingdom of Belgium",
+    "Modern_Birthplace": "Tremelo, Belgium",
+    "Death_Date": "1889-04-15",
+    "Historical_Death_Place": "Kalaupapa, Kingdom of Hawaii",
+    "Modern_Death_Place": "Kalaupapa, Hawaii, USA",
+    "Feast_Day": "1873-05-10",
+    "Virtues_Traits": [
+      "Charity",
+      "Compassion",
+      "Sacrifice"
+    ],
+    "Patron_Of": [
+      "People with leprosy",
+      "Outcasts",
+      "Hawaii"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Sacred Hearts of Jesus and Mary (SS.CC.)",
+    "Major_Events": [
+      "Volunteered to serve in the leper colony of Molokai in 1873",
+      "Built homes, hospitals, and churches for the leper community",
+      "Contracted leprosy in 1884 while serving the colony",
+      "Buried under the Pandanus tree where he first slept in Molokai"
+    ],
+    "Notable_Contributions": [
+      "Improved living conditions for lepers in Molokai",
+      "Advocated for leprosy patients' dignity and rights",
+      "Spread awareness about the plight of leprosy patients worldwide"
+    ],
+    "Quotes": [
+      "I make myself a leper with the lepers to gain all to Jesus Christ.",
+      "It is at the foot of the altar that we find the strength we need in our isolation.",
+      "Without the constant presence of our Divine Master, I would never be able to cast my lot with that of the lepers."
+    ],
+    "Vocation_Job": "Priest, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Mother Teresa of Calcutta",
+    "Birth_Name": "Agnes Gonxha Bojaxhiu",
+    "Birth_Date": "1910-08-26",
+    "Historical_Birthplace": "Uskup, Ottoman Empire",
+    "Modern_Birthplace": "Skopje, North Macedonia",
+    "Death_Date": "1997-09-05",
+    "Historical_Death_Place": "Calcutta, India",
+    "Modern_Death_Place": "Kolkata, India",
+    "Feast_Day": "September 5",
+    "Virtues_Traits": [
+      "Compassion",
+      "Humility",
+      "Selflessness",
+      "Faithfulness"
+    ],
+    "Patron_Of": [
+      "World Youth Day",
+      "Missionaries of Charity"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Missionaries of Charity",
+    "Major_Events": [
+      "Founded the Missionaries of Charity in 1950",
+      "Received the Nobel Peace Prize in 1979",
+      "Canonized as a saint on September 4, 2016",
+      "Established numerous homes for the dying, AIDS patients, lepers, and orphans"
+    ],
+    "Notable_Contributions": [
+      "Devoted life to serving the poorest of the poor",
+      "Expanded the Missionaries of Charity to over 130 countries",
+      "Raised global awareness for the dignity of the poor and marginalized",
+      "Inspired worldwide humanitarian work"
+    ],
+    "Quotes": [
+      "I have found the paradox that if I love until it hurts, then there is no hurt, but only more love.",
+      "At the end of our lives, we will not be judged by how many diplomas we have received, how much money we have made, or how many great things we have done. We will be judged by, 'I was hungry and you gave me to eat. I was naked and you clothed me. I was homeless and you took me in.'"
+    ],
+    "Vocation_Job": "Nun, Missionary, Humanitarian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Faustina Kowalska",
+    "Birth_Name": "Helena Kowalska",
+    "Birth_Date": "1905-08-25",
+    "Historical_Birthplace": "Głogowiec, Łęczyca County, Congress Poland, Russian Empire",
+    "Modern_Birthplace": "Głogowiec, Poland",
+    "Death_Date": "1938-10-05",
+    "Historical_Death_Place": "Kraków, Second Polish Republic",
+    "Modern_Death_Place": "Kraków, Poland",
+    "Feast_Day": "October 5",
+    "Virtues_Traits": [
+      "Humility",
+      "Purity",
+      "Love of God",
+      "Divine Mercy"
+    ],
+    "Patron_Of": [
+      "Apostle of Divine Mercy"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Sisters of Our Lady of Mercy",
+    "Major_Events": [
+      "Received frequent visions of Jesus Christ and recorded them in her diary",
+      "Commissioned the first Divine Mercy image based on her vision of Jesus",
+      "Promoted the Divine Mercy devotion which included the chaplet, novena, and Divine Mercy Sunday",
+      "Canonized on April 30, 2000, by Pope John Paul II"
+    ],
+    "Notable_Contributions": [
+      "Inspired the worldwide spread of the Divine Mercy devotion",
+      "Authored 'The Diary of Saint Maria Faustina Kowalska: Divine Mercy in My Soul'",
+      "Established the Divine Mercy chaplet and novena as key spiritual practices"
+    ],
+    "Quotes": [
+      "Humility, humility, and ever humility, as we can do nothing of ourselves; all is purely and simply God's grace.",
+      "Jesus, I trust in You.",
+      "I desire to reflect Your compassionate heart, full of mercy; I want to glorify it."
+    ],
+    "Vocation_Job": "Nun, Mystic, Visionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John Paul II",
+    "Birth_Name": "Karol Józef Wojtyła",
+    "Birth_Date": "1920-05-18",
+    "Historical_Birthplace": "Wadowice, Second Polish Republic",
+    "Modern_Birthplace": "Wadowice, Poland",
+    "Death_Date": "2005-04-02",
+    "Historical_Death_Place": "Apostolic Palace, Vatican City",
+    "Modern_Death_Place": "Vatican City",
+    "Feast_Day": "October 22",
+    "Virtues_Traits": [
+      "Courage",
+      "Compassion",
+      "Dedication to human dignity"
+    ],
+    "Patron_Of": [
+      "World Youth Day",
+      "Families",
+      "Laborers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Elected the first non-Italian pope in 455 years on October 16, 1978",
+      "Survived an assassination attempt on May 13, 1981",
+      "Played a pivotal role in the fall of Communism in Eastern Europe",
+      "Established World Youth Day",
+      "Canonized 483 saints and beatified 1,344 people"
+    ],
+    "Notable_Contributions": [
+      "Promoted interfaith dialogue with Judaism, Islam, and other Christian denominations",
+      "Contributed to the peaceful removal of Communism in Eastern Europe",
+      "Published the Catechism of the Catholic Church in 1992",
+      "Traveled to 129 countries, becoming one of the most-traveled popes in history",
+      "Advocated for human rights and dignity globally"
+    ],
+    "Quotes": [
+      "Do not be afraid! Open wide the doors for Christ…. Christ knows ‘what is in man.’ He alone knows it.",
+      "In everything that happened to me on that day, I felt (the Mother of God’s) extraordinary motherly protection and care, which turned out to be stronger than the deadly bullet."
+    ],
+    "Vocation_Job": "Pope, Philosopher, Theologian, Author",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": true,
+      "Pontifical_Motto": "Totus Tuus"
+    }
+  },
+  {
+    "Name": "Saint Gregory of Nazianzus",
+    "Birth_Name": "Gregory of Nazianzus",
+    "Birth_Date": "0329",
+    "Historical_Birthplace": "Arianzus, Cappadocia, Asia Minor",
+    "Modern_Birthplace": "Nenizi, Turkey",
+    "Death_Date": "0389-01-25",
+    "Historical_Death_Place": "Arianzus, Cappadocia, Asia Minor",
+    "Modern_Death_Place": "Nenizi, Turkey",
+    "Feast_Day": "01-02",
+    "Virtues_Traits": [
+      "Wisdom",
+      "Oratory skill",
+      "Theological insight"
+    ],
+    "Patron_Of": [
+      "Theologians",
+      "Poets",
+      "Those suffering from illness"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Composed the Five Theological Orations defending the Holy Trinity",
+      "Oversaw the Second Ecumenical Council (Constantinople, 381)",
+      "Became Archbishop of Constantinople in 380",
+      "Reconciled divisions caused by Arianism"
+    ],
+    "Notable_Contributions": [
+      "Promoted Nicene Orthodoxy against Arianism",
+      "Authored theological works foundational to Trinitarian doctrine",
+      "Prolific poet and writer on Christian theology"
+    ],
+    "Quotes": [
+      "Let me be as the Prophet Jonah! I was responsible for the storm, but I would sacrifice myself for the salvation of the ship. Seize me and throw me... I was not happy when I ascended the throne, and gladly would I descend it."
+    ],
+    "Vocation_Job": "Theologian, Bishop, Poet, Archbishop of Constantinople",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Basil the Great",
+    "Birth_Name": "Basil of Caesarea",
+    "Birth_Date": "0330",
+    "Historical_Birthplace": "Caesarea Mazaca, Cappadocia, Roman Empire",
+    "Modern_Birthplace": "Kayseri, Turkey",
+    "Death_Date": "0379-01-01",
+    "Historical_Death_Place": "Caesarea Mazaca, Cappadocia, Roman Empire",
+    "Modern_Death_Place": "Kayseri, Turkey",
+    "Feast_Day": "01-01",
+    "Virtues_Traits": [
+      "Compassion",
+      "Charity",
+      "Theological clarity"
+    ],
+    "Patron_Of": [
+      "Hospital administrators",
+      "Monastics",
+      "Theologians",
+      "Charitable organizations"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Father of Eastern Monasticism",
+    "Major_Events": [
+      "Ordained as deacon in 362 by Bishop Meletius of Antioch",
+      "Became Bishop of Caesarea in 370",
+      "Founded the Basiliad, a charitable complex for the poor and sick",
+      "Defended the Nicene Creed against Arianism"
+    ],
+    "Notable_Contributions": [
+      "Pioneered cenobitic monasticism in the East",
+      "Writings on theology, including 'On the Holy Spirit' and 'Against Eunomius'",
+      "Contributions to Christian liturgy and communal monastic rules",
+      "Advocated for and practiced social justice and charity"
+    ],
+    "Quotes": [
+      "A tree is known by its fruit; a man by his deeds.",
+      "When someone steals another’s clothes, we call them a thief. Should we not give the same name to one who could clothe the naked and does not?"
+    ],
+    "Vocation_Job": "Bishop, Theologian, Monastic Founder",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Athanasius of Alexandria",
+    "Birth_Name": "Athanasius",
+    "Birth_Date": "0296",
+    "Historical_Birthplace": "Alexandria, Roman Egypt",
+    "Modern_Birthplace": "Alexandria, Egypt",
+    "Death_Date": "0373-05-02",
+    "Historical_Death_Place": "Alexandria, Roman Egypt",
+    "Modern_Death_Place": "Alexandria, Egypt",
+    "Feast_Day": "0373-05-02",
+    "Virtues_Traits": [
+      "Courage",
+      "Perseverance",
+      "Orthodox fidelity"
+    ],
+    "Patron_Of": [
+      "Theologians",
+      "Defenders of the Faith"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Participated in the First Council of Nicaea (325)",
+      "Elected Patriarch of Alexandria (328)",
+      "Exiled five times by four Roman emperors",
+      "Defended the Nicene Creed against Arianism"
+    ],
+    "Notable_Contributions": [
+      "Wrote 'De Incarnatione' establishing the divinity of Christ",
+      "Promoted early monasticism through his biography of St. Anthony",
+      "Defended Trinitarian theology against Arianism"
+    ],
+    "Quotes": [
+      "Let what was confessed by the Fathers of Nicaea prevail."
+    ],
+    "Vocation_Job": "Bishop, Theologian, Church Father",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Cyril of Alexandria",
+    "Birth_Name": "Cyril",
+    "Birth_Date": "0376",
+    "Historical_Birthplace": "Theodosius, Province of Egypt, Roman Empire",
+    "Modern_Birthplace": "Alexandria, Egypt",
+    "Death_Date": "0444-06-27",
+    "Historical_Death_Place": "Alexandria, Province of Egypt, Byzantine Empire",
+    "Modern_Death_Place": "Alexandria, Egypt",
+    "Feast_Day": "June 27",
+    "Virtues_Traits": [
+      "Orthodoxy",
+      "Theological precision",
+      "Defender of the faith"
+    ],
+    "Patron_Of": [
+      "Alexandria",
+      "Orthodox theology"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Succeeded his uncle Theophilus as Patriarch of Alexandria in 412",
+      "Expelled Jews from Alexandria after violent conflicts",
+      "Closed Novatian heretical churches",
+      "Presided over the Council of Ephesus in 431, which condemned Nestorianism",
+      "Composed the Twelve Anathemas against Nestorian heresy"
+    ],
+    "Notable_Contributions": [
+      "Defended the doctrine of Theotokos (Mary as Mother of God)",
+      "Clarified the hypostatic union of Christ’s divine and human natures",
+      "Wrote extensive theological treatises and commentaries",
+      "Synthesized teachings of earlier Church Fathers",
+      "Declared Doctor of the Church in 1882"
+    ],
+    "Quotes": [
+      "We proclaim the holy Virgin to be the Mother of God because God the Word was incarnate and became man."
+    ],
+    "Vocation_Job": "Patriarch of Alexandria, Theologian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John Chrysostom",
+    "Birth_Name": "John of Antioch",
+    "Birth_Date": "0347",
+    "Historical_Birthplace": "Antioch, Roman Syria, Roman Empire",
+    "Modern_Birthplace": "Antakya, Turkey",
+    "Death_Date": "0407-09-14",
+    "Historical_Death_Place": "Comana, Diocese of Pontus, Eastern Roman Empire",
+    "Modern_Death_Place": "Comana, Turkey",
+    "Feast_Day": "September 13 (Western); November 13 (Eastern)",
+    "Virtues_Traits": [
+      "Eloquence",
+      "Courage",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Preachers",
+      "Speakers",
+      "Educators"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Ordained a deacon in 381",
+      "Ordained a priest in 386 at Antioch",
+      "Became Archbishop of Constantinople in 398",
+      "Exiled in 403 due to conflicts with imperial authorities",
+      "Died en route to exile in 407"
+    ],
+    "Notable_Contributions": [
+      "Extensive homilies on Scripture",
+      "Development of the Divine Liturgy of Saint John Chrysostom",
+      "Writings on pastoral theology",
+      "Defense of the poor and criticism of wealth misuse"
+    ],
+    "Quotes": [
+      "The Church is the house of the heavenly Father, one Body and one Spirit.",
+      "To tear asunder the Church means nothing less than to fall into heresy."
+    ],
+    "Vocation_Job": "Priest, Archbishop, Theologian, Preacher",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Hilary of Poitiers",
+    "Birth_Name": "Hilarius Pictaviensis",
+    "Birth_Date": "0310",
+    "Historical_Birthplace": "Pictavium, Gallia Aquitania, Roman Empire",
+    "Modern_Birthplace": "Poitiers, France",
+    "Death_Date": "0367",
+    "Historical_Death_Place": "Pictavium, Septem Provinciae, Roman Empire",
+    "Modern_Death_Place": "Poitiers, France",
+    "Feast_Day": "January 13",
+    "Virtues_Traits": [
+      "Courage",
+      "Faithfulness",
+      "Intellectual zeal"
+    ],
+    "Patron_Of": [
+      "Scholars",
+      "Theologians",
+      "Mothers",
+      "Children learning to walk",
+      "The sick"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Converted to Christianity from Neoplatonism",
+      "Elected Bishop of Poitiers",
+      "Exiled to Phrygia for opposing Arianism",
+      "Wrote De Trinitate to defend the doctrine of the Trinity",
+      "Proclaimed Doctor of the Church in 1851"
+    ],
+    "Notable_Contributions": [
+      "Authored De Trinitate, a foundational work on the doctrine of the Trinity",
+      "Composed some of the earliest Christian hymns in the West",
+      "Strengthened orthodoxy against Arianism in Gaul",
+      "Wrote a commentary on the Psalms and the Gospel of Matthew"
+    ],
+    "Quotes": [
+      "For one to attempt to speak of God in terms more precise than he himself has used: -- to undertake such a thing is to embark upon the boundless, to dare the incomprehensible."
+    ],
+    "Vocation_Job": "Bishop, Theologian, Writer",
+    "Conversion_Status": "Convert to Christianity",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Ephrem the Syrian",
+    "Birth_Name": "Ephrem",
+    "Birth_Date": "0305",
+    "Historical_Birthplace": "Nisibis, Roman Empire",
+    "Modern_Birthplace": "Nusaybin, Turkey",
+    "Death_Date": "0373",
+    "Historical_Death_Place": "Edessa, Roman Empire",
+    "Modern_Death_Place": "Şanlıurfa, Turkey",
+    "Feast_Day": "June 9",
+    "Virtues_Traits": [
+      "Humility",
+      "Charity",
+      "Theological Insight"
+    ],
+    "Patron_Of": [
+      "Spiritual Directors",
+      "Theologians",
+      "Poets"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Assisted in founding the School of Nisibis",
+      "Expelled from Nisibis after its fall to the Persians in 363",
+      "Founded a theological school in Edessa",
+      "Declared a Doctor of the Church in 1920 by Pope Benedict XV"
+    ],
+    "Notable_Contributions": [
+      "Composed over 400 hymns and 3,000 poems",
+      "Defended Nicene orthodoxy through hymns and writings",
+      "Promoted catechesis and liturgical devotion through theological poetry"
+    ],
+    "Quotes": [
+      "I have chanced upon weeds, my brothers, that wear the color of wheat, to choke the good seed.",
+      "The soul is your bride, the body is your bridal chamber.",
+      "He has saved us without wall, and taught us that He is our wall."
+    ],
+    "Vocation_Job": "Deacon, Theologian, Poet",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Polycarp of Smyrna",
+    "Birth_Name": "Polycarp",
+    "Birth_Date": "0069",
+    "Historical_Birthplace": "Smyrna, Roman Province of Asia",
+    "Modern_Birthplace": "Izmir, Turkey",
+    "Death_Date": "0155-02-23",
+    "Historical_Death_Place": "Smyrna, Roman Province of Asia",
+    "Modern_Death_Place": "Izmir, Turkey",
+    "Feast_Day": "02-23",
+    "Virtues_Traits": [
+      "Faithfulness",
+      "Zeal",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Earaches",
+      "Dysentery",
+      "Intestinal disorders"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Taught directly by the Apostle John",
+      "Appointed Bishop of Smyrna by the Apostles",
+      "Fought heresies such as Gnosticism",
+      "Met with Pope Anicetus to discuss the date of Easter",
+      "Martyred by burning and stabbing for refusing to renounce Christ"
+    ],
+    "Notable_Contributions": [
+      "Preserved Apostolic teachings",
+      "Wrote the Letter to the Philippians",
+      "Served as a critical link between the Apostolic and Patristic ages"
+    ],
+    "Quotes": [
+      "I have served Him for eighty-six years, and He has done me no harm. How could I curse my King who saved me?",
+      "You threaten me with fire, which burns for an hour, and after a little is extinguished. But you are ignorant of the fire of the coming judgment and of eternal punishment, reserved for the ungodly."
+    ],
+    "Vocation_Job": "Bishop, Theologian, Martyr",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Ignatius of Antioch",
+    "Birth_Name": "Ignatius",
+    "Birth_Date": "0035",
+    "Historical_Birthplace": "Syria, Roman Empire",
+    "Modern_Birthplace": "Syria",
+    "Death_Date": "0110",
+    "Historical_Death_Place": "Rome, Roman Empire",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "October 17",
+    "Virtues_Traits": [
+      "Faith",
+      "Courage",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Eastern Mediterranean churches"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Became the third Bishop of Antioch around 69 AD",
+      "Wrote seven influential letters to Christian communities during his journey to Rome",
+      "Martyred by being thrown to wild beasts in the Colosseum"
+    ],
+    "Notable_Contributions": [
+      "Introduced the term 'Catholic Church' to describe the universal body of believers",
+      "Encouraged unity and apostolic tradition in his letters",
+      "Defended the Eucharist and the real presence of Christ"
+    ],
+    "Quotes": [
+      "I am God’s wheat, and I am to be ground by the teeth of wild beasts, so that I may become the pure bread of Christ.",
+      "Permit me to be an imitator of the passion of my God.",
+      "I thank you, O Lord, that You have vouchsafed to honour me with a perfect love towards You, and have made me to be bound with iron chains, like Your Apostle Paul."
+    ],
+    "Vocation_Job": "Bishop, Theologian, Martyr",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Justin Martyr",
+    "Birth_Name": "Justin",
+    "Birth_Date": "0100",
+    "Historical_Birthplace": "Flavia Neapolis, Roman Palestine",
+    "Modern_Birthplace": "Nāblus, West Bank",
+    "Death_Date": "0165",
+    "Historical_Death_Place": "Rome, Roman Empire",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "06-01",
+    "Virtues_Traits": [
+      "Courage",
+      "Wisdom",
+      "Faithfulness"
+    ],
+    "Patron_Of": [
+      "Philosophers",
+      "Apologists",
+      "Lecturers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Converted to Christianity after studying various philosophies",
+      "Wrote the 'First Apology' and 'Second Apology' defending Christianity",
+      "Martyred for refusing to sacrifice to Roman gods"
+    ],
+    "Notable_Contributions": [
+      "Defended Christianity using Greek philosophy",
+      "Provided early descriptions of Christian liturgical practices",
+      "Laid groundwork for Christian theology engaging Greek philosophy"
+    ],
+    "Quotes": [
+      "No one in his right mind gives up piety for impiety.",
+      "We hope to suffer torment for the sake of our Lord Jesus Christ and so be saved. For this will bring us salvation and confidence as we stand before the more terrible and universal judgment-seat of our Lord and Savior.",
+      "When I was a disciple of Plato, hearing the accusations made against the Christians and seeing them intrepid in the face of death and of all that men fear, I said to myself that it was impossible that they should be living in evil and in the love of pleasure."
+    ],
+    "Vocation_Job": "Philosopher, Apologist, Teacher",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Perpetua",
+    "Birth_Name": "Vibia Perpetua",
+    "Birth_Date": "0182",
+    "Historical_Birthplace": "Carthage, Roman Empire",
+    "Modern_Birthplace": "Tunis, Tunisia",
+    "Death_Date": "0203-03-07",
+    "Historical_Death_Place": "Carthage, Roman Empire",
+    "Modern_Death_Place": "Tunis, Tunisia",
+    "Feast_Day": "March 7",
+    "Virtues_Traits": [
+      "Courage",
+      "Faithfulness",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Mothers",
+      "Expectant mothers",
+      "Ranchers",
+      "Butchers"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Converted to Christianity despite Roman persecution",
+      "Imprisoned and martyred in Carthage",
+      "Wrote 'The Passion of Saints Perpetua and Felicity', a powerful first-person account of her trial and visions"
+    ],
+    "Notable_Contributions": [
+      "Provided one of the earliest known Christian writings by a woman",
+      "Inspired early Christian communities through her martyrdom",
+      "Her story was read in liturgies for centuries"
+    ],
+    "Quotes": [
+      "Neither can I call myself by any other name than what I am—a Christian.",
+      "Stand fast in the faith, and love one another. Do not let our sufferings be a stumbling block to you."
+    ],
+    "Vocation_Job": "Christian Martyr, Author",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Felicity",
+    "Birth_Name": "Felicity",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Rome, Roman Empire",
+    "Modern_Birthplace": "Rome, Italy",
+    "Death_Date": "0203",
+    "Historical_Death_Place": "Carthage, Roman Empire",
+    "Modern_Death_Place": "Carthage, Tunisia",
+    "Feast_Day": "March 7",
+    "Virtues_Traits": [
+      "Courage",
+      "Faith",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Mothers",
+      "Expectant Mothers",
+      "Martyrs"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Imprisoned for her Christian faith while pregnant",
+      "Gave birth to her child in prison shortly before her execution",
+      "Martyred alongside Saint Perpetua and others in the amphitheater"
+    ],
+    "Notable_Contributions": [
+      "Served as an inspiration for early Christians through her steadfast faith",
+      "Encouraged Christians to remain strong in their beliefs despite persecution"
+    ],
+    "Quotes": [
+      "Another will be within me, who will suffer on my behalf, seeing that it is for Him that I am to suffer."
+    ],
+    "Vocation_Job": "Catechumen, Martyr",
+    "Conversion_Status": "Lifelong Christian",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Cecilia",
+    "Birth_Name": "Cecilia",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Rome, Roman Empire",
+    "Modern_Birthplace": "Rome, Italy",
+    "Death_Date": "Unknown",
+    "Historical_Death_Place": "Rome, Roman Empire",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "11-22",
+    "Virtues_Traits": [
+      "Faith",
+      "Courage",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Musicians",
+      "Singers",
+      "Poets",
+      "Sacred Music"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Converted her husband Valerian and his brother Tiburtius to Christianity",
+      "Facilitated the baptism of over 400 people by Pope Urban I",
+      "Survived attempted suffocation in a heated bath",
+      "Fatally wounded but lived for three days while preaching and praying"
+    ],
+    "Notable_Contributions": [
+      "Inspired the early Christian community through her martyrdom and evangelization",
+      "Donated her home to be used as a church",
+      "Regarded as the patroness of music due to her spiritual devotion expressed through song"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Evangelist, Martyr",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Lucy of Syracuse",
+    "Birth_Name": "Lucia",
+    "Birth_Date": "0283",
+    "Historical_Birthplace": "Syracuse, Roman Empire",
+    "Modern_Birthplace": "Syracuse, Italy",
+    "Death_Date": "0304-12-13",
+    "Historical_Death_Place": "Syracuse, Roman Empire",
+    "Modern_Death_Place": "Syracuse, Italy",
+    "Feast_Day": "0304-12-13",
+    "Virtues_Traits": [
+      "Faith",
+      "Chastity",
+      "Charity",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Blindness",
+      "Ophthalmologists",
+      "Authors",
+      "Peasants",
+      "Syracuse",
+      "Sight"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Consecrated her virginity to God and refused marriage",
+      "Cured her mother's hemorrhagic illness through faith and intercession of Saint Agatha",
+      "Denounced as a Christian by her suitor and persecuted under Diocletian's reign",
+      "Miraculously resisted attempts to defile and harm her, including being immovable by oxen and unharmed by fire",
+      "Executed by sword after prolonged torture, including having her eyes gouged out"
+    ],
+    "Notable_Contributions": [
+      "Advocated for the poor by distributing her wealth",
+      "Inspired devotion and veneration as a model of faith and light during persecution",
+      "Became a symbol of light and hope, celebrated widely in Europe, especially in Scandinavian traditions"
+    ],
+    "Quotes": [
+      "Whatever you give away at death for the Lord’s sake you give because you cannot take it with you. Give now to the true Savior, while you are healthy, whatever you intended to give away at your death.",
+      "I am a servant of the Eternal God and He said: ‘When you are led to the kings and princes do not give thought how or what you have to say because you will not be talking yourself but the Holy Spirit is speaking in you.’",
+      "The chaste are the temple of God, and the Holy Spirit dwells in them."
+    ],
+    "Vocation_Job": "Virgin, Martyr",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Agnes of Rome",
+    "Birth_Name": "Agnes",
+    "Birth_Date": "0291",
+    "Historical_Birthplace": "Rome, Roman Empire",
+    "Modern_Birthplace": "Rome, Italy",
+    "Death_Date": "0304-01-21",
+    "Historical_Death_Place": "Rome, Roman Empire",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "01-21",
+    "Virtues_Traits": [
+      "Chastity",
+      "Faithfulness",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Young girls",
+      "Chastity",
+      "Virgins",
+      "Engaged couples",
+      "Rape victims"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Refused marriage proposals to remain consecrated to Christ",
+      "Condemned to death after refusing to renounce her faith",
+      "Miraculously saved from fire before being executed by beheading"
+    ],
+    "Notable_Contributions": [
+      "Inspired devotion to chastity and faith",
+      "Served as a model of unwavering faith during Christian persecutions"
+    ],
+    "Quotes": [
+      "Jesus Christ is my only Spouse.",
+      "I am already promised to the Lord of the Universe. He is more splendid than the sun and the stars, and He has said He will never leave me!",
+      "I would offend my Spouse if I were to try to please you. He chose me first and He shall have me!"
+    ],
+    "Vocation_Job": "Virgin Martyr",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Agatha of Sicily",
+    "Birth_Name": "Agatha",
+    "Birth_Date": "0231",
+    "Historical_Birthplace": "Catania, Roman Province of Sicily",
+    "Modern_Birthplace": "Catania, Italy",
+    "Death_Date": "0251-02-05",
+    "Historical_Death_Place": "Catania, Roman Province of Sicily",
+    "Modern_Death_Place": "Catania, Italy",
+    "Feast_Day": "February 5",
+    "Virtues_Traits": [
+      "Faith",
+      "Courage",
+      "Purity",
+      "Resilience"
+    ],
+    "Patron_Of": [
+      "Sicily",
+      "Breast cancer patients",
+      "Nurses",
+      "Rape victims",
+      "Martyrs",
+      "Fire prevention",
+      "Natural disasters",
+      "Wet nurses",
+      "Bellfounders"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Refused marriage proposals and vowed virginity",
+      "Arrested during Emperor Decius' persecution of Christians",
+      "Tortured, including having her breasts cut off, for her refusal to renounce her faith",
+      "Miraculously healed by a vision of Saint Peter while in prison",
+      "Died after being subjected to severe torture, including being rolled over hot coals and sharp shards"
+    ],
+    "Notable_Contributions": [
+      "Became a symbol of courage and purity in the face of persecution",
+      "Intercessor for those suffering from breast cancer",
+      "Invoked for protection against volcanic eruptions and fires",
+      "Patroness of nurses and rape victims"
+    ],
+    "Quotes": [
+      "Jesus Christ, Lord of all, you see my heart, you know my desires. Possess all that I am. I am your sheep: make me worthy to overcome the devil.",
+      "Lord, my Creator, you have always protected me from the cradle; you have taken me from the love of the world and given me the patience to suffer. Receive my soul."
+    ],
+    "Vocation_Job": "Consecrated Virgin, Christian Martyr",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Monica",
+    "Birth_Name": "Monica",
+    "Birth_Date": "0332",
+    "Historical_Birthplace": "Tagaste, Numidia Cirtensis, Western Roman Empire",
+    "Modern_Birthplace": "Souk Ahras, Algeria",
+    "Death_Date": "0387",
+    "Historical_Death_Place": "Ostia, Western Roman Empire",
+    "Modern_Death_Place": "Ostia, Italy",
+    "Feast_Day": "August 27",
+    "Virtues_Traits": [
+      "Patience",
+      "Perseverance",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Mothers",
+      "Wives",
+      "Difficult marriages",
+      "Disappointing children",
+      "Victims of abuse",
+      "Alcoholics",
+      "Conversion of relatives"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Converted her pagan husband, Patricius, and her mother-in-law to Christianity",
+      "Persistently prayed and worked for the conversion of her son, Augustine",
+      "Witnessed Saint Augustine's baptism by Saint Ambrose in 387",
+      "Traveled extensively to accompany Augustine, including to Milan and Rome"
+    ],
+    "Notable_Contributions": [
+      "Her prayers and perseverance led to the conversion of Saint Augustine, one of the most influential theologians in Christianity",
+      "Left a legacy of faith, patience, and devotion as a model for mothers and Christians"
+    ],
+    "Quotes": [
+      "\"Lay this body anywhere, let not care for it trouble you; this only I ask you, that you remember me at the altar of the Lord, wherever you be.\""
+    ],
+    "Vocation_Job": "Mother, Laywoman",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Helena",
+    "Birth_Name": "Helena of Bithynia",
+    "Birth_Date": "Unknown",
+    "Historical_Birthplace": "Drepanum, Bithynia, Roman Empire",
+    "Modern_Birthplace": "Helenopolis, Turkey",
+    "Death_Date": "330-08-18",
+    "Historical_Death_Place": "Nicomedia, Roman Empire",
+    "Modern_Death_Place": "Izmit, Turkey",
+    "Feast_Day": "August 18",
+    "Virtues_Traits": [
+      "Piety",
+      "Devotion",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "New Discoveries",
+      "Archaeologists",
+      "Divorced People"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Discovery of the True Cross in Jerusalem",
+      "Erection of the Church of the Nativity in Bethlehem",
+      "Erection of the Church of the Holy Sepulchre in Jerusalem",
+      "Influence on Constantine's Christianization of the Roman Empire"
+    ],
+    "Notable_Contributions": [
+      "Promoted Christianity throughout the Roman Empire",
+      "Built significant churches at Christian holy sites",
+      "Preserved and honored sacred Christian relics and locations"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Empress, Pilgrim, Christian Advocate",
+    "Conversion_Status": "Convert to Christianity",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Bridget of Sweden",
+    "Birth_Name": "Bridget Birgersdotter",
+    "Birth_Date": "1303",
+    "Historical_Birthplace": "Uppland, Kingdom of Sweden",
+    "Modern_Birthplace": "Uppland, Sweden",
+    "Death_Date": "1373-07-23",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "07-23",
+    "Virtues_Traits": [
+      "Charity",
+      "Piety",
+      "Mysticism"
+    ],
+    "Patron_Of": [
+      "Sweden",
+      "Europe",
+      "Widows"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Order of the Most Holy Savior (Bridgettines)",
+    "Major_Events": [
+      "Founded the Order of the Most Holy Savior (Bridgettines) in 1346",
+      "Made a pilgrimage to Santiago de Compostela with her husband",
+      "Actively advocated for the pope’s return to Rome during the Avignon Papacy",
+      "Visited the Holy Land in 1372"
+    ],
+    "Notable_Contributions": [
+      "Established the Bridgettine double monastery in Vadstena, Sweden",
+      "Produced influential mystical writings and revelations",
+      "Promoted care for the sick, poor, and marginalized"
+    ],
+    "Quotes": [
+      "\"True wisdom, then, consists in works, not in great talents, which the world admires; for the wise in the world's estimation . . . are the foolish who set at naught the will of God, and know not how to control their passions.\"",
+      "\"In accordance with his surname, Thaddeus, the amiable or loving, he will show himself most willing to give help.\"",
+      "\"Woman, hear me; I am your God, who wishes to speak with you. Fear not, for I am the Creator of all, and not a deceiver.\""
+    ],
+    "Vocation_Job": "Mystic, Founder of Religious Order, Advocate for Social Justice",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Rose of Lima",
+    "Birth_Name": "Isabel Flores de Oliva",
+    "Birth_Date": "1586-04-20",
+    "Historical_Birthplace": "Lima, Viceroyalty of Peru, Spanish Empire",
+    "Modern_Birthplace": "Lima, Peru",
+    "Death_Date": "1617-08-24",
+    "Historical_Death_Place": "Lima, Viceroyalty of Peru, Spanish Empire",
+    "Modern_Death_Place": "Lima, Peru",
+    "Feast_Day": "08-23",
+    "Virtues_Traits": [
+      "Penance",
+      "Devotion",
+      "Charity",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Peru",
+      "Latin America",
+      "Philippines",
+      "Florists",
+      "Embroidery",
+      "Gardens",
+      "People ridiculed for piety",
+      "Resolved family quarrels"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Third Order of Saint Dominic",
+    "Major_Events": [
+      "Joined Third Order of Saint Dominic at age 20",
+      "Dedicated her life to prayer and care for the poor",
+      "Built a small grotto for prayer and penance",
+      "Established a home-based infirmary for the sick and poor"
+    ],
+    "Notable_Contributions": [
+      "First saint canonized from the Americas",
+      "Founder of social work in Peru",
+      "Symbol of devotion and virtue in Latin America"
+    ],
+    "Quotes": [
+      "Lord, increase my sufferings, and with them increase your love in my heart."
+    ],
+    "Vocation_Job": "Lay Dominican, Mystic, Social Worker",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Martin de Porres",
+    "Birth_Name": "Juan Martín de Porres Velázquez",
+    "Birth_Date": "1579-12-09",
+    "Historical_Birthplace": "Lima, Viceroyalty of Peru, Spanish Empire",
+    "Modern_Birthplace": "Lima, Peru",
+    "Death_Date": "1639-11-03",
+    "Historical_Death_Place": "Lima, Viceroyalty of Peru, Spanish Empire",
+    "Modern_Death_Place": "Lima, Peru",
+    "Feast_Day": "November 3",
+    "Virtues_Traits": [
+      "Compassion",
+      "Humility",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Mixed-Race People",
+      "Barbers",
+      "Public Health Workers",
+      "Innkeepers",
+      "Social Justice",
+      "Racial Harmony",
+      "Animals"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Dominicans",
+    "Major_Events": [
+      "Accepted as a Dominican lay brother in 1603 despite racial prejudice",
+      "Worked tirelessly in the monastery infirmary caring for the sick",
+      "Founded an orphanage and hospital for abandoned children and slaves",
+      "Performed numerous miraculous acts including healing, bilocation, and levitation"
+    ],
+    "Notable_Contributions": [
+      "Cared for the sick and marginalized regardless of race or status",
+      "Established a school for poor youth in Lima",
+      "Distributed food and alms to the poor daily",
+      "Promoted racial harmony and social justice"
+    ],
+    "Quotes": [
+      "Everything, even sweeping, scraping vegetables, weeding a garden and waiting on the sick could be a prayer, if it were offered to God.",
+      "Do not complain, that shows discontent with the will of God in the present moment. That is also proof of impatience.",
+      "Always consider others as more holy and more worthy than you, at the same time strive to be as holy as you can be."
+    ],
+    "Vocation_Job": "Dominican Lay Brother, Healer, Philanthropist",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Philip Neri",
+    "Birth_Name": "Filippo Romolo Neri",
+    "Birth_Date": "1515-07-21",
+    "Historical_Birthplace": "Florence, Republic of Florence",
+    "Modern_Birthplace": "Florence, Italy",
+    "Death_Date": "1595-05-26",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "May 26",
+    "Virtues_Traits": [
+      "Humility",
+      "Joy",
+      "Charity",
+      "Humor"
+    ],
+    "Patron_Of": [
+      "Rome",
+      "Joy",
+      "Humor",
+      "Comedians",
+      "Artists",
+      "Writers",
+      "United States Army Special Forces"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Oratory",
+    "Major_Events": [
+      "Founded the Congregation of the Oratory in 1575",
+      "Organized the Seven Churches Walk pilgrimage",
+      "Promoted spiritual renewal during the Counter-Reformation"
+    ],
+    "Notable_Contributions": [
+      "Reformed spirituality in Rome during the Counter-Reformation",
+      "Established a new model of communal priestly life",
+      "Integrated joy, music, and humor into spiritual practices"
+    ],
+    "Quotes": [
+      "Let me get through today, and I shall not fear tomorrow.",
+      "Last of all, we must die."
+    ],
+    "Vocation_Job": "Priest, Founder of the Oratory, Mystic",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Charles Borromeo",
+    "Birth_Name": "Carlo Borromeo di Arona",
+    "Birth_Date": "1538-10-02",
+    "Historical_Birthplace": "Castle of Arona, Duchy of Milan",
+    "Modern_Birthplace": "Arona, Italy",
+    "Death_Date": "1584-11-03",
+    "Historical_Death_Place": "Milan, Duchy of Milan",
+    "Modern_Death_Place": "Milan, Italy",
+    "Feast_Day": "11-04",
+    "Virtues_Traits": [
+      "Charity",
+      "Humility",
+      "Piety",
+      "Zeal for reform"
+    ],
+    "Patron_Of": [
+      "Catechists",
+      "Catechumens",
+      "Bishops",
+      "Seminarians",
+      "Spiritual Leaders",
+      "Stomach ailments"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Played a key role in the Council of Trent (1545-1564)",
+      "Became Archbishop of Milan in 1564",
+      "Established seminaries and the Confraternity of Christian Doctrine (CCD)",
+      "Survived an assassination attempt by the Humiliati order",
+      "Led relief efforts during the famine of 1570 and plague of 1576"
+    ],
+    "Notable_Contributions": [
+      "Reformed the Archdiocese of Milan, addressing corruption and laxity among clergy",
+      "Helped implement the Tridentine Reforms",
+      "Founded Sunday schools and advanced religious education",
+      "Acted as a spiritual mentor to St. Aloysius Gonzaga"
+    ],
+    "Quotes": [
+      "Wherever there is sufficient number of clerics, it would be well to chant the psalms and litanies with some intelligible and devout music to arouse greater devotion among the people."
+    ],
+    "Vocation_Job": "Cardinal, Archbishop of Milan, Theologian, Educator",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Robert Bellarmine",
+    "Birth_Name": "Roberto Francesco Romolo Bellarmino",
+    "Birth_Date": "1542-10-04",
+    "Historical_Birthplace": "Montepulciano, Grand Duchy of Tuscany",
+    "Modern_Birthplace": "Montepulciano, Italy",
+    "Death_Date": "1621-09-17",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "1621-09-17",
+    "Virtues_Traits": [
+      "Devotion",
+      "Humility",
+      "Intellectual brilliance",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Catechists",
+      "Catechumens",
+      "Canon lawyers",
+      "Catechism writers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Society of Jesus (Jesuits)",
+    "Major_Events": [
+      "Appointed first Jesuit professor of theology at Louvain in 1570",
+      "Wrote 'Disputations on the Controversies', a defense of Catholic theology during the Counter-Reformation",
+      "Named a cardinal by Pope Clement VIII in 1599",
+      "Became Archbishop of Capua in 1602",
+      "Canonized by Pope Pius XI in 1930",
+      "Declared Doctor of the Church in 1931"
+    ],
+    "Notable_Contributions": [
+      "Authored catechisms translated into 62 languages",
+      "Defended Catholic doctrine against Protestant Reformers",
+      "Played a significant role in implementing the reforms of the Council of Trent",
+      "Published works on spirituality and theology, including 'The Art of Dying Well'"
+    ],
+    "Quotes": [
+      "The school of Christ is the school of love. In the last day, when the general examination takes place … Love will be the whole syllabus.",
+      "Charity is that with which no man is lost, and without which no man is saved.",
+      "The walls won’t catch cold."
+    ],
+    "Vocation_Job": "Jesuit priest, theologian, cardinal, archbishop, author",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Alphonsus Liguori",
+    "Birth_Name": "Alphonsus Maria de' Liguori",
+    "Birth_Date": "1696-09-27",
+    "Historical_Birthplace": "Marianella, Kingdom of Naples",
+    "Modern_Birthplace": "Marianella, Italy",
+    "Death_Date": "1787-08-01",
+    "Historical_Death_Place": "Pagani, Kingdom of Naples",
+    "Modern_Death_Place": "Pagani, Italy",
+    "Feast_Day": "August 1",
+    "Virtues_Traits": [
+      "Compassion",
+      "Mercy",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Confessors",
+      "Moral Theologians",
+      "Lawyers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Most Holy Redeemer (Redemptorists)",
+    "Major_Events": [
+      "Founded the Congregation of the Most Holy Redeemer in 1732",
+      "Appointed Bishop of Sant'Agata de' Goti in 1762",
+      "Resigned as Bishop in 1775 due to ill health",
+      "Declared a Doctor of the Church in 1871"
+    ],
+    "Notable_Contributions": [
+      "Authored influential works on moral theology, such as 'Moral Theology' and 'Glories of Mary'",
+      "Founded the 'Evening Chapels' for prayer and catechesis among the poor",
+      "Reformed seminaries and clergy in his diocese",
+      "Promoted devotion to the Blessed Sacrament and the Virgin Mary"
+    ],
+    "Quotes": [
+      "The heart of man is, so to speak, the paradise of God. Oh, love the God who loves you! Since His delights are to be with you, let yours be found in Him.",
+      "I have never preached a sermon which the poorest old woman in the congregation could not understand.",
+      "Scruples are useful in the beginning of conversion... they cleanse the soul, and at the same time make it careful."
+    ],
+    "Vocation_Job": "Priest, Bishop, Theologian, Founder of a Religious Order",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Peter Claver",
+    "Birth_Name": "Peter Claver",
+    "Birth_Date": "1580",
+    "Historical_Birthplace": "Verdú, Catalonia, Spain",
+    "Modern_Birthplace": "Verdú, Spain",
+    "Death_Date": "1654-09-08",
+    "Historical_Death_Place": "Cartagena, Spanish Empire",
+    "Modern_Death_Place": "Cartagena, Colombia",
+    "Feast_Day": "09-09",
+    "Virtues_Traits": [
+      "Compassion",
+      "Perseverance",
+      "Humility",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "African missions",
+      "African-Americans",
+      "Black missions",
+      "Foreign missions",
+      "Interracial justice",
+      "Slaves",
+      "Colombia"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Society of Jesus (Jesuits)",
+    "Major_Events": [
+      "Ordained a Jesuit priest in 1616 in Cartagena",
+      "Dedicated 38 years to ministering to enslaved Africans in Cartagena",
+      "Baptized over 300,000 enslaved people",
+      "Advocated for better treatment of enslaved individuals and chastised oppressors",
+      "Canonized by Pope Leo XIII in 1888"
+    ],
+    "Notable_Contributions": [
+      "Ministered to the physical, emotional, and spiritual needs of enslaved Africans",
+      "Provided food, medicine, and catechesis aboard slave ships and plantations",
+      "Promoted the dignity of enslaved individuals despite societal norms",
+      "Established himself as a model of Christian charity and racial justice"
+    ],
+    "Quotes": [
+      "We must speak to them with our hands before we speak to them with our lips."
+    ],
+    "Vocation_Job": "Jesuit Priest, Missionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John Vianney",
+    "Birth_Name": "Jean-Baptiste-Marie Vianney",
+    "Birth_Date": "1786-05-08",
+    "Historical_Birthplace": "Dardilly, Kingdom of France",
+    "Modern_Birthplace": "Dardilly, France",
+    "Death_Date": "1859-08-04",
+    "Historical_Death_Place": "Ars, Second French Empire",
+    "Modern_Death_Place": "Ars-sur-Formans, France",
+    "Feast_Day": "August 4",
+    "Virtues_Traits": [
+      "Humility",
+      "Devotion",
+      "Perseverance",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Parish priests",
+      "Confessors"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Diocesan Priest",
+    "Major_Events": [
+      "Ordained a priest in 1815",
+      "Appointed Curé of Ars in 1818",
+      "Established La Providence, an orphanage for girls",
+      "Canonized by Pope Pius XI in 1925",
+      "Named Patron Saint of Parish Priests by Pope Pius XI in 1929"
+    ],
+    "Notable_Contributions": [
+      "Revived the faith of the community in Ars through prayer, penance, and preaching",
+      "Spent up to 16 hours a day hearing confessions",
+      "Converted countless sinners through his ministry",
+      "Became a model of priestly holiness and pastoral care"
+    ],
+    "Quotes": [
+      "If we really understood the priest on earth, we would die: not of fear, but of love.",
+      "The priesthood is the love of the heart of Jesus.",
+      "I give sinners a small penance, and the rest I do in their place."
+    ],
+    "Vocation_Job": "Priest, Confessor, Pastor",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Catherine Labouré",
+    "Birth_Name": "Zoé Labouré",
+    "Birth_Date": "1806-05-02",
+    "Historical_Birthplace": "Fain-lès-Moutiers, First French Empire",
+    "Modern_Birthplace": "Fain-lès-Moutiers, France",
+    "Death_Date": "1876-12-31",
+    "Historical_Death_Place": "Enghien Hospice, French Third Republic",
+    "Modern_Death_Place": "Paris, France",
+    "Feast_Day": "November 28",
+    "Virtues_Traits": [
+      "Humility",
+      "Obedience",
+      "Devotion",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "The elderly",
+      "Infirmed people",
+      "The Miraculous Medal"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Daughters of Charity",
+    "Major_Events": [
+      "Received apparitions of the Virgin Mary in 1830",
+      "Entrusted with the mission of creating the Miraculous Medal",
+      "Witnessed the rapid spread of the Miraculous Medal devotion",
+      "Served 46 years at the Enghien Hospice caring for the elderly and infirmed"
+    ],
+    "Notable_Contributions": [
+      "Popularized devotion to the Miraculous Medal",
+      "Inspired global Marian devotion",
+      "Provided a model of quiet and faithful service",
+      "Contributed to the spread of the Vincentian charism"
+    ],
+    "Quotes": [
+      "Now, dear Blessed Mother, now you will be my Mother.",
+      "I knew nothing. I was nothing. For this reason God picked me out.",
+      "You must give everything to God. Remember, you are leaving God for God."
+    ],
+    "Vocation_Job": "Nun, Visionary, Caregiver",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Margaret Mary Alacoque",
+    "Birth_Name": "Margaret Alacoque",
+    "Birth_Date": "1647-07-22",
+    "Historical_Birthplace": "L'Hautecour, Duchy of Burgundy",
+    "Modern_Birthplace": "Verosvres, France",
+    "Death_Date": "1690-10-17",
+    "Historical_Death_Place": "Paray-le-Monial, Kingdom of France",
+    "Modern_Death_Place": "Paray-le-Monial, France",
+    "Feast_Day": "October 16",
+    "Virtues_Traits": [
+      "Humility",
+      "Patience",
+      "Devotion"
+    ],
+    "Patron_Of": [
+      "Devotees of the Sacred Heart of Jesus",
+      "Loss of parents",
+      "Polio patients"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Visitation Order",
+    "Major_Events": [
+      "Promoted devotion to the Sacred Heart of Jesus",
+      "Received visions of Christ instructing her in the devotion",
+      "Inspired the institution of the Feast of the Sacred Heart"
+    ],
+    "Notable_Contributions": [
+      "Established devotion to the Sacred Heart of Jesus",
+      "Promoted the First Fridays devotion and Holy Hour",
+      "Encouraged reparation for sins to the Sacred Heart"
+    ],
+    "Quotes": [
+      "What have I in heaven, and what do I desire on earth, but Thee alone, O my God?",
+      "This divine Heart is a throne of flames, more brilliant than the sun and transparent as crystal."
+    ],
+    "Vocation_Job": "Nun, Mystic, Apostle of the Sacred Heart",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Frances Xavier Cabrini",
+    "Birth_Name": "Maria Francesca Cabrini",
+    "Birth_Date": "1850-07-15",
+    "Historical_Birthplace": "Sant'Angelo Lodigiano, Kingdom of Lombardy–Venetia, Austrian Empire",
+    "Modern_Birthplace": "Sant'Angelo Lodigiano, Italy",
+    "Death_Date": "1917-12-22",
+    "Historical_Death_Place": "Chicago, Illinois, United States",
+    "Modern_Death_Place": "Chicago, Illinois, United States",
+    "Feast_Day": "November 13",
+    "Virtues_Traits": [
+      "Compassion",
+      "Perseverance",
+      "Faith",
+      "Charity"
+    ],
+    "Patron_Of": [
+      "Immigrants",
+      "Hospital Administrators",
+      "Impossible Causes"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Missionary Sisters of the Sacred Heart of Jesus",
+    "Major_Events": [
+      "Founded the Missionary Sisters of the Sacred Heart of Jesus in 1880",
+      "Naturalized as a U.S. citizen in 1909",
+      "Founded 67 institutions including schools, hospitals, and orphanages across the United States, Latin America, and Europe",
+      "Canonized as the first U.S. citizen saint in 1946 by Pope Pius XII"
+    ],
+    "Notable_Contributions": [
+      "Advocated for and supported Italian immigrants in the United States",
+      "Established institutions providing care for the poor, sick, and uneducated",
+      "Inspired others to serve in the healthcare and educational fields"
+    ],
+    "Quotes": [
+      "Not to the East, but to the West."
+    ],
+    "Vocation_Job": "Religious Sister, Missionary, Founder",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Gianna Beretta Molla",
+    "Birth_Name": "Gianna Francesca Beretta",
+    "Birth_Date": "1922-10-04",
+    "Historical_Birthplace": "Magenta, Kingdom of Italy",
+    "Modern_Birthplace": "Magenta, Italy",
+    "Death_Date": "1962-04-28",
+    "Historical_Death_Place": "Monza, Italy",
+    "Modern_Death_Place": "Monza, Italy",
+    "Feast_Day": "April 28",
+    "Virtues_Traits": [
+      "Selflessness",
+      "Heroic Virtue",
+      "Faithfulness",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "Mothers",
+      "Physicians",
+      "Unborn Children"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Earned degrees in medicine and surgery in 1949",
+      "Specialized in pediatrics in 1952",
+      "Founded a medical clinic in Mesero, Italy",
+      "Married Pietro Molla in 1955",
+      "Sacrificed her life to save her unborn child in 1962"
+    ],
+    "Notable_Contributions": [
+      "Devoted her life to her family, patients, and faith",
+      "Lived as a model of Christian motherhood and medical professionalism",
+      "Canonized as a modern saint in 2004"
+    ],
+    "Quotes": [
+      "If you must decide between me and the child, do not hesitate: choose the child—I insist on it.",
+      "Love is the most beautiful sentiment that the Lord has put into the soul of men and women."
+    ],
+    "Vocation_Job": "Pediatrician, Wife, Mother",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint André Bessette",
+    "Birth_Name": "Alfred Bessette",
+    "Birth_Date": "1845-08-09",
+    "Historical_Birthplace": "Mont-Saint-Grégoire, Province of Canada",
+    "Modern_Birthplace": "Mont-Saint-Grégoire, Quebec, Canada",
+    "Death_Date": "1937-01-06",
+    "Historical_Death_Place": "Saint-Laurent, Montreal Region, Dominion of Canada",
+    "Modern_Death_Place": "Saint-Laurent, Quebec, Canada",
+    "Feast_Day": "January 6",
+    "Virtues_Traits": [
+      "Humility",
+      "Devotion",
+      "Perseverance",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "Sick people",
+      "Family caregivers",
+      "Saint Joseph's Oratory"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of Holy Cross",
+    "Major_Events": [
+      "Entered the Congregation of Holy Cross on December 27, 1870",
+      "Professed final vows on February 2, 1874",
+      "Opened Saint Joseph’s Oratory in 1904",
+      "Canonized by Pope Benedict XVI on October 17, 2010"
+    ],
+    "Notable_Contributions": [
+      "Promoted devotion to Saint Joseph",
+      "Built Saint Joseph’s Oratory in Montreal, a major pilgrimage site",
+      "Attributed with thousands of miraculous healings"
+    ],
+    "Quotes": [
+      "Saint Joseph will never let you down. He’s the reason you are healed. Continue praying to his foster Son, Jesus, and Mother Mary."
+    ],
+    "Vocation_Job": "Religious Brother, Doorkeeper, Caretaker, Healer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Oscar Romero",
+    "Birth_Name": "Óscar Arnulfo Romero y Galdámez",
+    "Birth_Date": "1917-08-15",
+    "Historical_Birthplace": "Ciudad Barrios, El Salvador",
+    "Modern_Birthplace": "Ciudad Barrios, El Salvador",
+    "Death_Date": "1980-03-24",
+    "Historical_Death_Place": "San Salvador, El Salvador",
+    "Modern_Death_Place": "San Salvador, El Salvador",
+    "Feast_Day": "1980-03-24",
+    "Virtues_Traits": [
+      "Courage",
+      "Faith",
+      "Advocacy for justice",
+      "Solidarity with the poor"
+    ],
+    "Patron_Of": [
+      "El Salvador",
+      "Social justice advocates",
+      "Human rights defenders"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Ordained as a priest in 1942",
+      "Appointed Archbishop of San Salvador in 1977",
+      "Became an outspoken advocate for the poor and victims of violence",
+      "Assassinated while celebrating Mass in 1980"
+    ],
+    "Notable_Contributions": [
+      "Utilized homilies to denounce human rights abuses and promote justice",
+      "Symbolized the Church's preferential option for the poor",
+      "Inspired global awareness about El Salvador's oppression",
+      "Canonized as a saint by Pope Francis in 2018"
+    ],
+    "Quotes": [
+      "Aspire not to have more, but to be more.",
+      "If I am killed, I shall arise in the Salvadoran people.",
+      "In the name of God, stop the repression!"
+    ],
+    "Vocation_Job": "Priest, Archbishop, Advocate for social justice",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Ignatius of Loyola",
+    "Birth_Name": "Íñigo López de Oñaz y Loyola",
+    "Birth_Date": "1491",
+    "Historical_Birthplace": "Castle Loyola, Guipúzcoa Province, Crown of Castile",
+    "Modern_Birthplace": "Azpeitia, Spain",
+    "Death_Date": "1556-07-31",
+    "Historical_Death_Place": "Rome, Papal States",
+    "Modern_Death_Place": "Rome, Italy",
+    "Feast_Day": "07-31",
+    "Virtues_Traits": [
+      "Obedience",
+      "Humility",
+      "Devotion",
+      "Intellectual engagement"
+    ],
+    "Patron_Of": [
+      "Society of Jesus",
+      "Soldiers",
+      "Spiritual retreats",
+      "Basque provinces of Gipuzkoa and Biscay",
+      "Rome",
+      "Accidents and injuries"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Society of Jesus (Jesuits)",
+    "Major_Events": [
+      "Wounded at the Battle of Pamplona in 1521, prompting a spiritual transformation",
+      "Developed the Spiritual Exercises during his time in Manresa",
+      "Founded the Society of Jesus in 1540 with papal approval",
+      "Elected the first Superior General of the Jesuits in 1541",
+      "Canonized as a saint in 1622"
+    ],
+    "Notable_Contributions": [
+      "Founder of the Jesuit religious order",
+      "Authored the Spiritual Exercises, a foundational guide for spiritual retreats",
+      "Promoted education and intellectual rigor as tools for faith and reform",
+      "Contributed to the Counter-Reformation through missionary work and education"
+    ],
+    "Quotes": [
+      "Man was created to praise, reverence, and serve God our Lord, and by this means to save his soul."
+    ],
+    "Vocation_Job": "Priest, Theologian, Founder of the Jesuits",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Thomas More",
+    "Birth_Name": "Thomas More",
+    "Birth_Date": "1478-02-07",
+    "Historical_Birthplace": "London, Kingdom of England",
+    "Modern_Birthplace": "London, United Kingdom",
+    "Death_Date": "1535-07-06",
+    "Historical_Death_Place": "London, Kingdom of England",
+    "Modern_Death_Place": "London, United Kingdom",
+    "Feast_Day": "06-22",
+    "Virtues_Traits": [
+      "Integrity",
+      "Courage",
+      "Faithfulness"
+    ],
+    "Patron_Of": [
+      "Statesmen",
+      "Politicians",
+      "Lawyers",
+      "Civil Servants"
+    ],
+    "Martyr": true,
+    "Religious_Order": "Third Order of St. Francis",
+    "Major_Events": [
+      "Served as Lord Chancellor of England (1529-1532)",
+      "Authored 'Utopia' in 1516",
+      "Refused to accept King Henry VIII as Supreme Head of the Church of England",
+      "Executed for treason after refusing the Oath of Supremacy"
+    ],
+    "Notable_Contributions": [
+      "Authored 'Utopia', a foundational work in political philosophy",
+      "Defended the primacy of the Pope over the Church",
+      "Embodied the value of moral conscience in public service"
+    ],
+    "Quotes": [
+      "The king's good servant, but God's first."
+    ],
+    "Vocation_Job": "Lawyer, Statesman, Author, Theologian",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Teresa of Calcutta",
+    "Birth_Name": "Anjezë Gonxhe Bojaxhiu",
+    "Birth_Date": "1910-08-26",
+    "Historical_Birthplace": "Skopje, Ottoman Empire",
+    "Modern_Birthplace": "Skopje, North Macedonia",
+    "Death_Date": "1997-09-05",
+    "Historical_Death_Place": "Calcutta, India",
+    "Modern_Death_Place": "Kolkata, India",
+    "Feast_Day": "09-05",
+    "Virtues_Traits": [
+      "Charity",
+      "Compassion",
+      "Humility",
+      "Selflessness"
+    ],
+    "Patron_Of": [
+      "Missionaries of Charity",
+      "World Youth Day",
+      "Calcutta"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Missionaries of Charity",
+    "Major_Events": [
+      "Received the 'call within a call' in 1946 to serve the poorest of the poor",
+      "Founded the Missionaries of Charity in 1950",
+      "Received the Nobel Peace Prize in 1979",
+      "Canonized as Saint Teresa of Calcutta in 2016"
+    ],
+    "Notable_Contributions": [
+      "Established homes for the dying, orphanages, and leprosy treatment centers",
+      "Expanded Missionaries of Charity to over 123 countries",
+      "Advocated for the dignity and care of the poorest"
+    ],
+    "Quotes": [
+      "I have found the paradox that if I love until it hurts, then there is no hurt, but only more love.",
+      "At the end of our lives, we will not be judged by how many diplomas we have received, how much money we have made, or how many great things we have done. We will be judged by, 'I was hungry and you gave me to eat. I was naked and you clothed me. I was homeless and you took me in.'"
+    ],
+    "Vocation_Job": "Nun, Missionary, Founder of Missionaries of Charity",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John Chrysostom",
+    "Birth_Name": "John",
+    "Birth_Date": "0347",
+    "Historical_Birthplace": "Antioch, Roman Empire",
+    "Modern_Birthplace": "Antakya, Turkey",
+    "Death_Date": "0407-09-14",
+    "Historical_Death_Place": "Comana, Helenopontus, Roman Empire",
+    "Modern_Death_Place": "Gümüşhane Province, Turkey",
+    "Feast_Day": "September 13 (Western); November 13 (Eastern)",
+    "Virtues_Traits": [
+      "Eloquence",
+      "Zeal",
+      "Humility",
+      "Courage"
+    ],
+    "Patron_Of": [
+      "Preachers",
+      "Speakers",
+      "Educators"
+    ],
+    "Martyr": false,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Ordained a deacon in 381 and a priest in 386",
+      "Appointed Archbishop of Constantinople in 398",
+      "Exiled twice due to conflicts with Empress Eudoxia and ecclesiastical authorities",
+      "Introduced liturgical reforms and supported missions to surrounding regions",
+      "Declared Doctor of the Church for his contributions to Christian teaching"
+    ],
+    "Notable_Contributions": [
+      "Authored over 700 sermons and numerous letters",
+      "Composed the 'Liturgy of St. John Chrysostom,' central to Eastern Orthodox worship",
+      "Wrote theological treatises and commentaries on Scripture",
+      "Advocated for the poor, criticized corruption, and preached against the abuse of wealth",
+      "Promoted unity within the Church and resisted heresies"
+    ],
+    "Quotes": [
+      "The Church is the house of the heavenly Father, one Body and one Spirit.",
+      "If you cannot find Christ in the beggar at the church door, you will not find Him in the chalice.",
+      "Prayer is the light of the soul, true knowledge of God."
+    ],
+    "Vocation_Job": "Deacon, Priest, Archbishop, Theologian, Writer",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Josephine Bakhita",
+    "Birth_Name": "Unknown",
+    "Birth_Date": "1869",
+    "Historical_Birthplace": "Olgossa, Darfur, Sudan",
+    "Modern_Birthplace": "Olgossa, Sudan",
+    "Death_Date": "1947-02-08",
+    "Historical_Death_Place": "Schio, Kingdom of Italy",
+    "Modern_Death_Place": "Schio, Italy",
+    "Feast_Day": "02-08",
+    "Virtues_Traits": [
+      "Forgiveness",
+      "Hope",
+      "Kindness",
+      "Humility"
+    ],
+    "Patron_Of": [
+      "Sudan",
+      "Victims of human trafficking",
+      "Survivors of slavery"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Canossian Daughters of Charity",
+    "Major_Events": [
+      "Kidnapped and sold into slavery at the age of nine",
+      "Baptized and confirmed in 1890 in Venice, Italy",
+      "Declared free by Italian courts in 1885",
+      "Joined the Canossian Daughters of Charity in 1893 and took final vows in 1896",
+      "Canonized by Pope John Paul II on October 1, 2000"
+    ],
+    "Notable_Contributions": [
+      "Advocated for human dignity and freedom",
+      "Served her community through humble acts such as cooking, sewing, and welcoming visitors",
+      "Became a symbol of hope and forgiveness for victims of human trafficking"
+    ],
+    "Quotes": [
+      "Be good, love the Lord, pray for those who do not know Him. What a great grace it is to know God!",
+      "If I were to meet the slave traders who kidnapped me and even those who tortured me, I would kneel and kiss their hands, for if these things had not happened, I would not have been a Christian and a religious today."
+    ],
+    "Vocation_Job": "Religious Sister",
+    "Conversion_Status": "Convert to Catholicism",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Louis IX",
+    "Birth_Name": "Louis of Poissy",
+    "Birth_Date": "1214-04-25",
+    "Historical_Birthplace": "Poissy, Kingdom of France",
+    "Modern_Birthplace": "Poissy, France",
+    "Death_Date": "1270-08-25",
+    "Historical_Death_Place": "Tunis, Hafsid Dynasty",
+    "Modern_Death_Place": "Tunis, Tunisia",
+    "Feast_Day": "August 25",
+    "Virtues_Traits": [
+      "Justice",
+      "Charity",
+      "Piety"
+    ],
+    "Patron_Of": [
+      "France",
+      "Third Order of St. Francis",
+      "French monarchy",
+      "Hairdressers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Third Order of St. Francis",
+    "Major_Events": [
+      "Crowned King of France at age 12 under regency of his mother Blanche of Castile",
+      "Led the Seventh Crusade (1248-1250) and Eighth Crusade (1270)",
+      "Established the Parlement of Paris",
+      "Commissioned Sainte-Chapelle as a reliquary for the Crown of Thorns",
+      "Canonized in 1297 by Pope Boniface VIII"
+    ],
+    "Notable_Contributions": [
+      "Reformed the French legal system by abolishing trials by ordeal and promoting the presumption of innocence",
+      "Established hospitals and homes for the poor",
+      "Promoted higher education including founding the Sorbonne",
+      "Acted as an international mediator during disputes across Europe"
+    ],
+    "Quotes": [
+      "The peace and blessings of the realm come to us through the poor."
+    ],
+    "Vocation_Job": "King, Crusader, Reformer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Helen",
+    "Birth_Name": "Helen",
+    "Birth_Date": "0250",
+    "Historical_Birthplace": "Drepanum, Bithynia, Roman Empire",
+    "Modern_Birthplace": "Izmit, Turkey",
+    "Death_Date": "0330",
+    "Historical_Death_Place": "Nicomedia, Bithynia, Roman Empire",
+    "Modern_Death_Place": "Izmit, Turkey",
+    "Feast_Day": "08-18",
+    "Virtues_Traits": [
+      "Faith",
+      "Perseverance",
+      "Charity",
+      "Piety"
+    ],
+    "Patron_Of": [
+      "Archaeologists",
+      "Conversions",
+      "Difficult marriages",
+      "Imperial cities",
+      "Nail makers",
+      "Cross makers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Unknown",
+    "Major_Events": [
+      "Discovered the True Cross during a pilgrimage to the Holy Land",
+      "Supervised the demolition of pagan temples and the construction of Christian churches in Jerusalem, Bethlehem, and Mount of Olives",
+      "Contributed to the spread of Christianity throughout the Roman Empire"
+    ],
+    "Notable_Contributions": [
+      "Promoted Christianity's establishment in the Roman Empire",
+      "Preserved and identified sacred Christian relics such as the True Cross",
+      "Supported the construction of churches at key Christian sites"
+    ],
+    "Quotes": [],
+    "Vocation_Job": "Empress, Pilgrim, Patron of Christianity",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Andrew Kim Taegon",
+    "Birth_Name": "Kim Taegon",
+    "Birth_Date": "1821-08-21",
+    "Historical_Birthplace": "Solmoi, Chungcheong Province, Joseon Dynasty",
+    "Modern_Birthplace": "Solmoe, South Chungcheong Province, South Korea",
+    "Death_Date": "1846-09-16",
+    "Historical_Death_Place": "Saenamteo, Han River, Joseon Dynasty",
+    "Modern_Death_Place": "Saenamteo Martyrs' Shrine, Yongsan District, Seoul, South Korea",
+    "Feast_Day": "09-20",
+    "Virtues_Traits": [
+      "Courage",
+      "Faithfulness",
+      "Evangelical Zeal"
+    ],
+    "Patron_Of": [
+      "Korea",
+      "Korean Clergy"
+    ],
+    "Martyr": true,
+    "Religious_Order": "None",
+    "Major_Events": [
+      "Baptized at age 15",
+      "Studied in Macau and the Philippines",
+      "Ordained as the first Korean-born Catholic priest in Shanghai in 1844",
+      "Evangelized in Korea under severe persecution",
+      "Arrested, tortured, and martyred by beheading in 1846"
+    ],
+    "Notable_Contributions": [
+      "First Korean-born Catholic priest",
+      "Evangelized and strengthened the Catholic faith in Korea during a time of persecution",
+      "Inspired countless Korean Catholics through his martyrdom"
+    ],
+    "Quotes": [
+      "We have received baptism, entrance into the Church, and the honor of being called Christians. Yet what good will this do us if we are Christians in name only and not in fact?",
+      "This is my last hour of life, listen to me attentively: if I have held communication with foreigners, it has been for my religion and my God. It is for Him that I die. My immortal life is on the point of beginning. Become Christians if you wish to be happy after death, because God has eternal chastisements in store for those who have refused to know Him."
+    ],
+    "Vocation_Job": "Priest, Missionary",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Faustina Kowalska",
+    "Birth_Name": "Helena Kowalska",
+    "Birth_Date": "1905-08-25",
+    "Historical_Birthplace": "Głogowiec, Congress Poland, Russian Empire",
+    "Modern_Birthplace": "Głogowiec, Poland",
+    "Death_Date": "1938-10-05",
+    "Historical_Death_Place": "Kraków, Second Polish Republic",
+    "Modern_Death_Place": "Kraków, Poland",
+    "Feast_Day": "10-05",
+    "Virtues_Traits": [
+      "Humility",
+      "Purity",
+      "Love of God",
+      "Mercy",
+      "Compassion"
+    ],
+    "Patron_Of": [
+      "Divine Mercy"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Congregation of the Sisters of Our Lady of Mercy",
+    "Major_Events": [
+      "Received visions and messages from Jesus about Divine Mercy",
+      "Commissioned the first Divine Mercy image with guidance from Father Michał Sopoćko",
+      "Kept a diary documenting her mystical experiences, later published as 'The Diary of Saint Maria Faustina Kowalska: Divine Mercy in My Soul'",
+      "Instituted devotion to the Divine Mercy Chaplet and Divine Mercy Sunday",
+      "Inspired the establishment of the Sisters of Merciful Jesus"
+    ],
+    "Notable_Contributions": [
+      "Promoted the devotion to Divine Mercy",
+      "Wrote extensively about her mystical experiences and teachings of Jesus on mercy",
+      "Helped establish the Feast of Divine Mercy Sunday through her revelations"
+    ],
+    "Quotes": [
+      "Humility, humility, and ever humility, as we can do nothing of ourselves; all is purely and simply God's grace.",
+      "Jesus, I trust in You.",
+      "I do not want to punish aching mankind, but I desire to heal it, pressing it to my merciful heart.",
+      "Neither graces, nor revelations, nor raptures, nor gifts granted to a soul make it perfect, but rather the intimate union of the soul with God."
+    ],
+    "Vocation_Job": "Nun, Mystic, Visionary",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint John of God",
+    "Birth_Name": "João Cidade Duarte",
+    "Birth_Date": "1495",
+    "Historical_Birthplace": "Montemor-o-Novo, Kingdom of Portugal",
+    "Modern_Birthplace": "Montemor-o-Novo, Portugal",
+    "Death_Date": "1550-03-08",
+    "Historical_Death_Place": "Granada, Kingdom of Spain",
+    "Modern_Death_Place": "Granada, Spain",
+    "Feast_Day": "March 8",
+    "Virtues_Traits": [
+      "Humility",
+      "Compassion",
+      "Charity",
+      "Perseverance"
+    ],
+    "Patron_Of": [
+      "Hospitals",
+      "Nurses",
+      "Firefighters",
+      "Booksellers",
+      "The Sick",
+      "The Mentally Ill",
+      "The Dying",
+      "Heart Patients"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Brothers Hospitallers of Saint John of God",
+    "Major_Events": [
+      "Established a hospital to care for the sick and poor in Granada",
+      "Founded the Brothers Hospitallers, a religious order dedicated to serving the sick",
+      "Rescued patients from a burning hospital without being harmed by the flames"
+    ],
+    "Notable_Contributions": [
+      "Founded the Brothers Hospitallers of Saint John of God, now a worldwide religious order",
+      "Cared for the sick, poor, and mentally ill",
+      "Inspired others to join in service through his example of selfless charity"
+    ],
+    "Quotes": [
+      "For just as water extinguishes a fire, just so does charity blot out our sins.",
+      "There are three things that make me uneasy: The first is that I have received so many graces from God, and have not recognized them, and have repaid them with so little of my own.",
+      "The second is that after I am dead, I fear lest the poor women I have rescued, and the poor sinners I have reclaimed, may be treated badly.",
+      "The third is that those who have trusted me with money, and whom I have not fully repaid, may suffer loss on my account."
+    ],
+    "Vocation_Job": "Founder of a Religious Order, Caregiver for the Sick and Poor",
+    "Conversion_Status": "Convert",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Benedict the Moor",
+    "Birth_Name": "Benedict Manasseri",
+    "Birth_Date": "1526",
+    "Historical_Birthplace": "San Fratello, Crown of Aragon",
+    "Modern_Birthplace": "San Fratello, Sicily, Italy",
+    "Death_Date": "1589-04-04",
+    "Historical_Death_Place": "Palermo, Crown of Aragon",
+    "Modern_Death_Place": "Palermo, Sicily, Italy",
+    "Feast_Day": "04-04",
+    "Virtues_Traits": [
+      "Humility",
+      "Charity",
+      "Patience"
+    ],
+    "Patron_Of": [
+      "African missions",
+      "African Americans",
+      "Black missions",
+      "Black people",
+      "Palermo",
+      "San Fratello",
+      "Sicily"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Franciscan Order (Order of Friars Minor, Observants)",
+    "Major_Events": [
+      "Freed by his master's promise before his birth",
+      "Joined a Franciscan hermit community and became its leader",
+      "Transitioned to Franciscan Order after Pope Pius IV disbanded solitary communities",
+      "Appointed superior of the Friary of St. Mary in Palermo",
+      "Known for miracles, healing, and spiritual guidance"
+    ],
+    "Notable_Contributions": [
+      "Became a symbol of racial equality and humility",
+      "Known for miraculous healing and acts of charity",
+      "Inspired devotion to African missions and African American communities"
+    ],
+    "Quotes": [
+      "Unknown"
+    ],
+    "Vocation_Job": "Franciscan lay brother, Cook, Novice master, Spiritual guide",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Hildegard of Bingen",
+    "Birth_Name": "Hildegard von Bingen",
+    "Birth_Date": "1098",
+    "Historical_Birthplace": "Böckelheim, County Palatine of the Rhine, Holy Roman Empire",
+    "Modern_Birthplace": "Böckelheim, Germany",
+    "Death_Date": "1179-09-17",
+    "Historical_Death_Place": "Rupertsberg, County Palatine of the Rhine, Holy Roman Empire",
+    "Modern_Death_Place": "Bingen am Rhein, Germany",
+    "Feast_Day": "09-17",
+    "Virtues_Traits": [
+      "Wisdom",
+      "Courage",
+      "Vision",
+      "Artistry"
+    ],
+    "Patron_Of": [
+      "Musicians",
+      "Writers"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Benedictines",
+    "Major_Events": [
+      "Experienced visions since childhood, confirmed by theologians at 43",
+      "Elected magistra of Disibodenberg convent in 1136",
+      "Founded the monastery at Rupertsberg in 1150",
+      "Founded a second monastery at Eibingen in 1165",
+      "Canonized in 2012 and declared Doctor of the Church by Pope Benedict XVI"
+    ],
+    "Notable_Contributions": [
+      "Authored visionary works such as 'Scivias', 'Liber vitae meritorum', and 'Liber divinorum operum'",
+      "Composed sacred music, including the 'Symphonia armonie celestium revelationum'",
+      "Pioneered scientific natural history in Germany",
+      "Developed the constructed language 'Lingua Ignota'",
+      "Advocated for reform and unity within the Church"
+    ],
+    "Quotes": [
+      "The Word is living, being, spirit, all verdant greening, all creativity.",
+      "O fire of the Holy Spirit, life of the life of every creature, holy are you in giving life to forms."
+    ],
+    "Vocation_Job": "Abbess, Composer, Writer, Mystic, Polymath",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  },
+  {
+    "Name": "Saint Rocco",
+    "Birth_Name": "Rocco",
+    "Birth_Date": "1295",
+    "Historical_Birthplace": "Montpellier, Kingdom of France",
+    "Modern_Birthplace": "Montpellier, France",
+    "Death_Date": "1327-08-16",
+    "Historical_Death_Place": "Montpellier, Kingdom of France",
+    "Modern_Death_Place": "Montpellier, France",
+    "Feast_Day": "08-16",
+    "Virtues_Traits": [
+      "Charity",
+      "Humility",
+      "Faith"
+    ],
+    "Patron_Of": [
+      "Plague victims",
+      "Infectious diseases",
+      "Dogs",
+      "Bachelors",
+      "The wrongly accused"
+    ],
+    "Martyr": false,
+    "Religious_Order": "Franciscan Third Order",
+    "Major_Events": [
+      "Distributed his wealth to the poor after the death of his parents",
+      "Traveled as a pilgrim curing plague victims in Italy and other regions",
+      "Miraculously survived his own battle with the plague in the forest with aid from a dog",
+      "Was imprisoned for five years as a suspected spy and died in prison"
+    ],
+    "Notable_Contributions": [
+      "Known for miraculous healings of plague victims through prayer and the sign of the cross",
+      "Venerated as a protector against plagues and contagious diseases",
+      "Inspired devotion and miracles associated with his relics after his death"
+    ],
+    "Quotes": [
+      "I am your nephew, Rocco."
+    ],
+    "Vocation_Job": "Pilgrim, Healer",
+    "Conversion_Status": "Lifelong Catholic",
+    "Popes": {
+      "Was_Pope": false,
+      "Pontifical_Motto": ""
+    }
+  }
+]
